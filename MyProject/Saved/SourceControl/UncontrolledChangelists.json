@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Input/Actions/IA_Drop.uasset",
+				"C:/Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Input/Actions/IMC_Girl.uasset",
+				"C:/Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/8K/GG3F1KN6HOZVD2S04Z36W1.uasset",
+				"C:/Users/maren/Downloads/GameJam/GameJam/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Object.uasset",
+				"C:/Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/X7/4YTJU5TGIFCHC0CCDV69MW.uasset"
+			]
+		}
+	]
+}
