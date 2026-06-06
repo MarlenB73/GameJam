@@ -2057,3 +2057,1188 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.06-17.30.37:584][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2027.793457
 [2026.06.06-17.30.38:582][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.06-17.30.38:587][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2028.458618, Update Interval: 323.077484
+[2026.06.06-17.31.57:519][ 59]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2026.06.06-17.31.57:527][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.06.06-17.32.35:354][772]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.06.06-17.33.19:357][425]LogEditorTransaction: Undo Modificar componentes
+[2026.06.06-17.34.24:362][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2026.06.06-17.35.56:724][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2026.06.06-17.36.01:608][ 25]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-17.36.01:655][ 25]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-17.36.01:656][ 25]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-17.36.01:678][ 25]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 21.400 ms (total: 75.244 ms)
+[2026.06.06-17.36.01:703][ 25]LogPlayLevel: [PlayLevel] Compiling WBP_Derrota before play...
+[2026.06.06-17.36.01:827][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.06.06-17.36.01:833][ 25]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2026.06.06-17.36.01:844][ 25]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.36.01:878][ 25]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-17.36.01:881][ 25]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.466 ms (total: 19.660 ms)
+[2026.06.06-17.36.01:881][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036416s)
+[2026.06.06-17.36.01:881][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.037208s)
+[2026.06.06-17.36.01:931][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2026.06.06-17.36.01:934][ 25]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-17.36.01:951][ 25]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-17.36.01:951][ 25]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-17.36.01:951][ 25]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-17.36.01:951][ 25]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-17.36.01:955][ 25]LogWorldPartition: Display: WorldPartition initialize took 3.481 ms (total: 273.964 ms)
+[2026.06.06-17.36.01:956][ 25]LogPlayLevel: PIE: World Init took: (0.021685s)
+[2026.06.06-17.36.01:959][ 25]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.06.06-17.36.01:959][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-17.36.01:959][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-17.36.01:959][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-17.36.01:959][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-17.36.01:959][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-17.36.01:959][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-17.36.01:960][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-17.36.01:960][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-17.36.01:963][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-17.36.01:963][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-17.36.01:963][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-17.36.01:967][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-17.36.02:285][ 25]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-17.36.02:286][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-17.36.02:287][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-17.36.02:287][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-17.36.02:290][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.06.06-17.36.02:290][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.06.06-17.36.02:295][ 25]LogInit: FAudioDevice initialized with ID 8.
+[2026.06.06-17.36.02:295][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.06.06-17.36.02:295][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.06.06-17.36.02:295][ 25]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-17.36.02:296][ 25]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.06.06-17.36.02:323][ 25]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-17.36.02:339][ 25]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-12.36.02
+[2026.06.06-17.36.02:351][ 25]LogWorld: Bringing up level for play took: 0.024868
+[2026.06.06-17.36.02:362][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.06.06-17.36.02:439][ 25]PIE: El servidor ha iniciado sesión
+[2026.06.06-17.36.02:443][ 25]PIE: Tiempo de inicio total de la reproducción en el editor de 0,793 segundos.
+[2026.06.06-17.36.02:561][ 27]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071597 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_C_UAID_A8E291C41BD92BE202_1757595719', movement 'Walking'
+[2026.06.06-17.36.04:515][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.36.04:515][ 84]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.36.04:515][ 84]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-17.36.04:522][ 84]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.36.04:527][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.36.04:528][ 84]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-17.36.04:538][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-17.36.04:587][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.36.04:630][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.36.04:631][ 84]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.06.06-17.36.04:631][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.06.06-17.36.04:647][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.06.06-17.36.04:670][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.06.06-17.36.04:711][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.06.06-17.36.49:117][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2399.325195
+[2026.06.06-17.36.49:374][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-17.36.49:374][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2399.540283, Update Interval: 350.375671
+[2026.06.06-17.36.50:021][816]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-17.36.50:052][816]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-17.36.50:052][816]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-17.36.50:053][816]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.269 ms (total: 76.513 ms)
+[2026.06.06-17.36.50:067][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-17.36.50:067][816]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.36.50:074][816]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-17.36.50:076][816]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.262 ms (total: 20.923 ms)
+[2026.06.06-17.36.50:076][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008734s)
+[2026.06.06-17.36.50:076][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.008789s)
+[2026.06.06-17.36.50:120][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.06.06-17.36.50:127][816]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-17.36.50:130][816]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-17.36.50:130][816]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-17.36.50:130][816]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-17.36.50:130][816]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-17.36.50:132][816]LogWorldPartition: Display: WorldPartition initialize took 1.944 ms (total: 275.909 ms)
+[2026.06.06-17.36.50:132][816]LogPlayLevel: PIE: World Init took: (0.004946s)
+[2026.06.06-17.36.50:133][816]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.06.06-17.36.50:133][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-17.36.50:133][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-17.36.50:133][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-17.36.50:133][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-17.36.50:133][816]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-17.36.50:133][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-17.36.50:133][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-17.36.50:133][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-17.36.50:133][816]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-17.36.50:133][816]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-17.36.50:133][816]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-17.36.50:137][816]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-17.36.50:245][816]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-17.36.50:245][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-17.36.50:245][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-17.36.50:245][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-17.36.50:246][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.06.06-17.36.50:246][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.06.06-17.36.50:251][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.06.06-17.36.50:251][816]LogInit: FAudioDevice initialized with ID 9.
+[2026.06.06-17.36.50:251][816]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-17.36.50:251][816]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.06.06-17.36.50:252][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.06.06-17.36.50:258][816]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-17.36.50:263][816]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-12.36.50
+[2026.06.06-17.36.50:265][816]LogWorld: Bringing up level for play took: 0.006620
+[2026.06.06-17.36.50:269][816]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.06.06-17.36.50:281][816]PIE: El servidor ha iniciado sesión
+[2026.06.06-17.36.50:282][816]PIE: Tiempo de inicio total de la reproducción en el editor de 0,231 segundos.
+[2026.06.06-17.36.50:425][819]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.083741 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_C_UAID_A8E291C41BD92BE202_1757595719', movement 'Walking'
+[2026.06.06-17.37.04:801][454]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.37.04:805][454]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.37.15:311][890]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.37.15:312][890]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.37.27:288][372]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-17.37.27:289][372]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.37.30:607][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.37.30:608][506]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.37.30:608][506]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-17.37.30:609][506]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.37.30:611][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.37.30:611][506]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-17.37.30:617][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-17.37.30:635][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.37.30:684][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.06-17.37.30:684][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.06.06-17.37.30:684][506]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.06.06-17.37.30:691][506]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.06.06-17.37.30:716][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.37.30:722][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2026.06.06-17.37.30:843][507]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.06.06-17.37.33:049][601]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-17.37.33:067][601]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-17.37.33:068][601]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-17.37.33:070][601]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.283 ms (total: 78.797 ms)
+[2026.06.06-17.37.33:070][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-17.37.33:071][601]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.37.33:084][601]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-17.37.33:089][601]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.913 ms (total: 24.836 ms)
+[2026.06.06-17.37.33:089][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018366s)
+[2026.06.06-17.37.33:089][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.018449s)
+[2026.06.06-17.37.33:145][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2026.06.06-17.37.33:147][601]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-17.37.33:150][601]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-17.37.33:150][601]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-17.37.33:150][601]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-17.37.33:150][601]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-17.37.33:153][601]LogWorldPartition: Display: WorldPartition initialize took 3.134 ms (total: 279.043 ms)
+[2026.06.06-17.37.33:153][601]LogPlayLevel: PIE: World Init took: (0.005857s)
+[2026.06.06-17.37.33:154][601]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.06.06-17.37.33:164][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-17.37.33:164][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-17.37.33:164][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-17.37.33:164][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-17.37.33:164][601]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-17.37.33:164][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-17.37.33:164][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-17.37.33:164][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-17.37.33:164][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-17.37.33:164][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-17.37.33:165][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-17.37.33:165][601]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-17.37.33:272][601]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-17.37.33:273][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-17.37.33:273][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-17.37.33:273][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-17.37.33:276][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.06.06-17.37.33:276][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.06.06-17.37.33:280][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.06.06-17.37.33:280][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.06.06-17.37.33:280][601]LogInit: FAudioDevice initialized with ID 10.
+[2026.06.06-17.37.33:280][601]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-17.37.33:280][601]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.06.06-17.37.33:286][601]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-17.37.33:290][601]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-12.37.33
+[2026.06.06-17.37.33:291][601]LogWorld: Bringing up level for play took: 0.005211
+[2026.06.06-17.37.33:295][601]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.06.06-17.37.33:302][601]PIE: El servidor ha iniciado sesión
+[2026.06.06-17.37.33:305][601]PIE: Tiempo de inicio total de la reproducción en el editor de 0,238 segundos.
+[2026.06.06-17.37.33:427][604]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057911 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_C_UAID_A8E291C41BD92BE202_1757595719', movement 'Walking'
+[2026.06.06-17.37.45:890][105]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.37.45:890][105]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.37.59:797][661]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.37.59:798][661]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.38.10:913][104]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.38.10:914][104]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.38.25:889][711]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.38.25:890][711]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.38.39:694][262]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 1
+[2026.06.06-17.38.39:696][262]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.38.39:697][262]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.39.26:671][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.39.26:672][ 70]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.39.26:672][ 70]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-17.39.26:676][ 70]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.39.26:679][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.39.26:679][ 70]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-17.39.26:690][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-17.39.26:697][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.39.26:757][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.39.26:758][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.06.06-17.39.26:758][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.06.06-17.39.26:760][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.06.06-17.39.26:771][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.06.06-17.39.26:884][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.06.06-17.41.07:776][871]LogSlate: External Image Picker: DecompressImage failed
+[2026.06.06-17.43.03:263][414]LogSlateStyle: Warning: Ausente Recurso de 'CoreStyle' Estilo: 'No se puede encontrar el color 'Graph.Node.Comment.TextColor'.'
+[2026.06.06-17.43.31:888][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2026.06.06-17.43.33:706][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2803.906250
+[2026.06.06-17.43.34:016][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-17.43.34:016][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2804.173828, Update Interval: 337.861877
+[2026.06.06-17.43.34:211][327]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-17.43.34:242][327]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-17.43.34:243][327]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-17.43.34:246][327]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.844 ms (total: 81.641 ms)
+[2026.06.06-17.43.34:246][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-17.43.34:247][327]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.43.34:258][327]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-17.43.34:260][327]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.328 ms (total: 26.165 ms)
+[2026.06.06-17.43.34:260][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013121s)
+[2026.06.06-17.43.34:260][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.013190s)
+[2026.06.06-17.43.34:311][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.06.06-17.43.34:312][327]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-17.43.34:314][327]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-17.43.34:314][327]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-17.43.34:314][327]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-17.43.34:314][327]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-17.43.34:316][327]LogWorldPartition: Display: WorldPartition initialize took 1.833 ms (total: 280.877 ms)
+[2026.06.06-17.43.34:316][327]LogPlayLevel: PIE: World Init took: (0.004431s)
+[2026.06.06-17.43.34:317][327]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.06.06-17.43.34:317][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-17.43.34:317][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-17.43.34:317][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-17.43.34:317][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-17.43.34:317][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-17.43.34:317][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-17.43.34:317][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-17.43.34:317][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-17.43.34:317][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-17.43.34:317][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-17.43.34:317][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-17.43.34:340][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-17.43.34:479][327]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-17.43.34:481][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-17.43.34:481][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-17.43.34:481][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-17.43.34:483][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.06.06-17.43.34:483][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.06.06-17.43.34:487][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.06.06-17.43.34:487][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.06.06-17.43.34:487][327]LogInit: FAudioDevice initialized with ID 11.
+[2026.06.06-17.43.34:487][327]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-17.43.34:487][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.06.06-17.43.34:504][327]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-17.43.34:508][327]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-12.43.34
+[2026.06.06-17.43.34:511][327]LogWorld: Bringing up level for play took: 0.005329
+[2026.06.06-17.43.34:515][327]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.06.06-17.43.34:526][327]PIE: El servidor ha iniciado sesión
+[2026.06.06-17.43.34:528][327]PIE: Tiempo de inicio total de la reproducción en el editor de 0,286 segundos.
+[2026.06.06-17.43.35:142][350]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.050629 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_C_UAID_A8E291C41BD92BE202_1757595719', movement 'Walking'
+[2026.06.06-17.43.47:405][846]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.43.47:405][846]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.43.57:465][260]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.44.08:721][758]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.44.15:285][ 31]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-17.44.15:288][ 31]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.44.19:926][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.44.19:926][231]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.44.19:926][231]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-17.44.19:927][231]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.44.19:928][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.44.19:928][231]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-17.44.19:941][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-17.44.19:956][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.44.19:998][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.06-17.44.19:998][231]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.06.06-17.44.19:998][231]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.06.06-17.44.20:002][231]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.06.06-17.44.20:007][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.44.20:014][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2026.06.06-17.44.20:124][232]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.06.06-17.44.22:064][295]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-17.44.22:080][295]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-17.44.22:080][295]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-17.44.22:081][295]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.242 ms (total: 82.884 ms)
+[2026.06.06-17.44.22:081][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-17.44.22:082][295]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.44.22:093][295]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-17.44.22:093][295]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.287 ms (total: 27.453 ms)
+[2026.06.06-17.44.22:093][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011906s)
+[2026.06.06-17.44.22:093][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.011950s)
+[2026.06.06-17.44.22:143][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.06.06-17.44.22:144][295]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-17.44.22:147][295]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-17.44.22:147][295]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-17.44.22:147][295]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-17.44.22:147][295]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-17.44.22:148][295]LogWorldPartition: Display: WorldPartition initialize took 1.822 ms (total: 282.699 ms)
+[2026.06.06-17.44.22:148][295]LogPlayLevel: PIE: World Init took: (0.004401s)
+[2026.06.06-17.44.22:150][295]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.06.06-17.44.22:150][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-17.44.22:150][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-17.44.22:150][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-17.44.22:150][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-17.44.22:150][295]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-17.44.22:150][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-17.44.22:150][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-17.44.22:150][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-17.44.22:150][295]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-17.44.22:150][295]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-17.44.22:150][295]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-17.44.22:153][295]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-17.44.22:251][295]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-17.44.22:252][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-17.44.22:252][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-17.44.22:252][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-17.44.22:255][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.06.06-17.44.22:255][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.06.06-17.44.22:258][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.06.06-17.44.22:258][295]LogInit: FAudioDevice initialized with ID 12.
+[2026.06.06-17.44.22:258][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.06.06-17.44.22:258][295]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-17.44.22:258][295]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.06.06-17.44.22:263][295]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-17.44.22:269][295]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-12.44.22
+[2026.06.06-17.44.22:270][295]LogWorld: Bringing up level for play took: 0.005735
+[2026.06.06-17.44.22:272][295]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.06.06-17.44.22:282][295]PIE: El servidor ha iniciado sesión
+[2026.06.06-17.44.22:285][295]PIE: Tiempo de inicio total de la reproducción en el editor de 0,205 segundos.
+[2026.06.06-17.44.22:452][298]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071252 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_C_UAID_A8E291C41BD92BE202_1757595719', movement 'Walking'
+[2026.06.06-17.44.33:593][755]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.44.47:517][381]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.45.03:908][100]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.45.12:237][502]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-17.45.12:237][502]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.45.17:540][742]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.45.27:842][222]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_1' was already added to the screen.
+[2026.06.06-17.45.27:842][222]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.45.38:299][710]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 1
+[2026.06.06-17.45.38:299][710]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.45.59:744][604]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.46.16:919][280]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.46.31:633][847]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.46.37:352][105]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_2' was already added to the screen.
+[2026.06.06-17.46.37:352][105]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.47.10:202][244]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_3' was already added to the screen.
+[2026.06.06-17.47.10:202][244]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.47.23:243][789]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.47.43:283][628]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 2
+[2026.06.06-17.47.43:284][628]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.47.57:970][263]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.48.09:153][730]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.48.20:013][174]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.48.52:773][466]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.49.05:387][  5]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 3
+[2026.06.06-17.49.05:388][  5]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.49.10:553][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.49.10:553][265]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.49.10:553][265]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-17.49.10:554][265]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.49.10:556][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.49.10:556][265]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-17.49.10:560][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-17.49.10:571][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.49.10:625][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.49.10:626][265]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.06.06-17.49.10:626][265]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.06.06-17.49.10:628][265]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.06.06-17.49.10:641][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2026.06.06-17.49.10:806][266]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.06.06-17.50.08:534][881]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3198.739746
+[2026.06.06-17.50.08:753][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-17.50.08:753][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3198.922852, Update Interval: 358.641327
+[2026.06.06-17.50.19:660][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.06.06-17.51.48:921][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.06.06-17.53.13:201][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.06.06-17.53.13:244][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/45/1Q978DURAPMX0NUVM11OC2_Auto3
+[2026.06.06-17.53.13:245][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/1Q978DURAPMX0NUVM11OC2_Auto380CF94C24F2BD730E3614D8CF8BC5100.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/45/1Q978DURAPMX0NUVM11OC2_Auto3.uasset'
+[2026.06.06-17.53.13:274][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4V/J89WNERSGWAYV9WHY87K2Z_Auto3
+[2026.06.06-17.53.13:274][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/J89WNERSGWAYV9WHY87K2Z_Auto3D315F71E4B7537333AF457B93C11178B.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4V/J89WNERSGWAYV9WHY87K2Z_Auto3.uasset'
+[2026.06.06-17.53.13:295][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/BW/T0OKYBCS9LML8OMY28ZA5U_Auto3
+[2026.06.06-17.53.13:296][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/T0OKYBCS9LML8OMY28ZA5U_Auto33CD3962041C74BBBD3CD488A0FF35902.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/BW/T0OKYBCS9LML8OMY28ZA5U_Auto3.uasset'
+[2026.06.06-17.53.13:321][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/F1/M75V5HO0U9TL9V3Y7CUFEV_Auto3
+[2026.06.06-17.53.13:321][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/M75V5HO0U9TL9V3Y7CUFEV_Auto3026AE17049453CAEF630E4B1A0138412.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/F1/M75V5HO0U9TL9V3Y7CUFEV_Auto3.uasset'
+[2026.06.06-17.53.13:348][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/ZV/TGQDHZSXQLL7KKMZNY64PD_Auto3
+[2026.06.06-17.53.13:350][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/TGQDHZSXQLL7KKMZNY64PD_Auto3DB67202E4119F4A009D9BBB2BEC5C9C4.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/ZV/TGQDHZSXQLL7KKMZNY64PD_Auto3.uasset'
+[2026.06.06-17.53.13:355][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.206
+[2026.06.06-17.53.13:355][124]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.206
+[2026.06.06-17.53.13:360][124]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-17.53.13:360][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-17.53.13:420][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2026.06.06-17.53.13:422][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto344ED2BFB4C520F1C95CF62A71BC72BCB.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2026.06.06-17.53.13:426][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Chest] ([2] browsable assets)...
+[2026.06.06-17.53.13:427][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Chest]
+[2026.06.06-17.53.13:460][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Chest_Auto3
+[2026.06.06-17.53.13:462][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Chest_Auto3571B44164D040E4399CA358D079A06DC.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/BP_Chest_Auto3.uasset'
+[2026.06.06-17.53.13:466][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2026.06.06-17.53.13:492][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy]
+[2026.06.06-17.53.13:492][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy]
+[2026.06.06-17.53.13:516][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_Auto3
+[2026.06.06-17.53.13:517][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Enemy_Auto3545ED3CC4BE5784F3686ABB233488FB4.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/BP_Enemy_Auto3.uasset'
+[2026.06.06-17.53.13:519][124]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Door] ([2] browsable assets)...
+[2026.06.06-17.53.13:536][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Door.BP_Door]
+[2026.06.06-17.53.13:538][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door]
+[2026.06.06-17.53.13:569][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Door_Auto3
+[2026.06.06-17.53.13:571][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Door_Auto3C1FD6A364F6F50A09ED44696884E9837.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/BP_Door_Auto3.uasset'
+[2026.06.06-17.53.13:575][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/WBP_Victoria] ([2] browsable assets)...
+[2026.06.06-17.53.13:575][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_Victoria]
+[2026.06.06-17.53.13:590][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_Victoria_Auto3
+[2026.06.06-17.53.13:590][124]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/WBP_Victoria_Auto380BA45DE4367E677B56760AFE4B6868E.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Widgets/WBP_Victoria_Auto3.uasset'
+[2026.06.06-17.53.13:592][124]LogFileHelpers: Auto-saving content packages took 0.236
+[2026.06.06-17.54.23:634][119]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-17.54.23:665][119]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-17.54.23:665][119]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-17.54.23:667][119]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.857 ms (total: 84.742 ms)
+[2026.06.06-17.54.23:667][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-17.54.23:668][119]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.54.23:680][119]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-17.54.23:681][119]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.293 ms (total: 28.746 ms)
+[2026.06.06-17.54.23:681][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013183s)
+[2026.06.06-17.54.23:681][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.013298s)
+[2026.06.06-17.54.23:733][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2026.06.06-17.54.23:736][119]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-17.54.23:739][119]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-17.54.23:739][119]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-17.54.23:739][119]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-17.54.23:739][119]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-17.54.23:741][119]LogWorldPartition: Display: WorldPartition initialize took 1.933 ms (total: 284.633 ms)
+[2026.06.06-17.54.23:741][119]LogPlayLevel: PIE: World Init took: (0.004841s)
+[2026.06.06-17.54.23:741][119]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.06.06-17.54.23:741][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-17.54.23:741][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-17.54.23:741][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-17.54.23:741][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-17.54.23:741][119]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-17.54.23:741][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-17.54.23:741][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-17.54.23:741][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-17.54.23:741][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-17.54.23:742][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-17.54.23:742][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-17.54.23:745][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-17.54.23:846][119]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-17.54.23:847][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-17.54.23:847][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-17.54.23:847][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-17.54.23:848][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.06.06-17.54.23:848][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.06.06-17.54.23:850][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.06.06-17.54.23:850][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.06.06-17.54.23:851][119]LogInit: FAudioDevice initialized with ID 13.
+[2026.06.06-17.54.23:851][119]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-17.54.23:851][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.06.06-17.54.23:867][119]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-17.54.23:873][119]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-12.54.23
+[2026.06.06-17.54.23:874][119]LogWorld: Bringing up level for play took: 0.005737
+[2026.06.06-17.54.23:877][119]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.06.06-17.54.23:887][119]PIE: El servidor ha iniciado sesión
+[2026.06.06-17.54.23:890][119]PIE: Tiempo de inicio total de la reproducción en el editor de 0,225 segundos.
+[2026.06.06-17.54.23:999][121]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.060772 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_C_UAID_A8E291C41BD92BE202_1757595719', movement 'Walking'
+[2026.06.06-17.54.38:747][751]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.54.46:012][ 59]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-17.54.46:012][ 59]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.55.14:867][210]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_1' was already added to the screen.
+[2026.06.06-17.55.14:867][210]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.55.23:354][558]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.55.36:314][ 63]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.55.49:961][547]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.56.03:979][ 72]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 1
+[2026.06.06-17.56.03:980][ 72]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.56.17:605][509]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.56.32:194][ 35]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.56.42:264][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.56.42:264][421]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.56.42:264][421]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-17.56.42:266][421]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.56.42:268][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.56.42:268][421]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-17.56.42:276][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-17.56.42:290][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.56.42:339][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.56.42:342][421]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.06.06-17.56.42:342][421]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.06.06-17.56.42:344][421]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.06.06-17.56.42:356][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.06.06-17.56.42:500][422]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.06.06-17.56.52:153][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2026.06.06-17.56.53:297][688]LogSlate: Window 'Guardar contenido' being destroyed
+[2026.06.06-17.56.53:346][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.06-17.56.53:508][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Chest] ([2] browsable assets)...
+[2026.06.06-17.56.53:508][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Chest]
+[2026.06.06-17.56.53:508][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Chest" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Chest.uasset" SILENT=true
+[2026.06.06-17.56.53:546][688]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Chest
+[2026.06.06-17.56.53:547][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Chest84B08B204B381B6A4A783CBC98027762.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Chest.uasset'
+[2026.06.06-17.56.53:560][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Door] ([2] browsable assets)...
+[2026.06.06-17.56.53:560][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door]
+[2026.06.06-17.56.53:560][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2026.06.06-17.56.53:585][688]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door
+[2026.06.06-17.56.53:586][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Door043812E34A03D9028CFF48B05ACD1002.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Door.uasset'
+[2026.06.06-17.56.53:601][688]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/BW/T0OKYBCS9LML8OMY28ZA5U
+[2026.06.06-17.56.53:602][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/T0OKYBCS9LML8OMY28ZA5U95336AF74ACC648EA61EB0AD0BB1AE4A.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/BW/T0OKYBCS9LML8OMY28ZA5U.uasset'
+[2026.06.06-17.56.53:617][688]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4V/J89WNERSGWAYV9WHY87K2Z
+[2026.06.06-17.56.53:620][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/J89WNERSGWAYV9WHY87K2ZEB6CDD7A4F47CE4DC825E985B7473520.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4V/J89WNERSGWAYV9WHY87K2Z.uasset'
+[2026.06.06-17.56.53:641][688]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/F1/M75V5HO0U9TL9V3Y7CUFEV
+[2026.06.06-17.56.53:642][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/M75V5HO0U9TL9V3Y7CUFEV17B51E624B1AAF1483BD1A90FCC3893B.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/F1/M75V5HO0U9TL9V3Y7CUFEV.uasset'
+[2026.06.06-17.56.53:646][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2026.06.06-17.56.53:646][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy]
+[2026.06.06-17.56.53:646][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2026.06.06-17.56.53:669][688]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2026.06.06-17.56.53:671][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Enemy60A2F0A2427911F2CDEDEF88D5A259C7.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Enemy.uasset'
+[2026.06.06-17.56.53:687][688]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/ZV/TGQDHZSXQLL7KKMZNY64PD
+[2026.06.06-17.56.53:688][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/TGQDHZSXQLL7KKMZNY64PD4AD427CE4E5D6C7E90767A871261916A.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/ZV/TGQDHZSXQLL7KKMZNY64PD.uasset'
+[2026.06.06-17.56.53:691][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-17.56.53:691][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-17.56.53:731][688]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.06.06-17.56.53:731][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter6BA1850A4D0E3AE31DDC75A018D22536.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.06.06-17.56.53:746][688]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/45/1Q978DURAPMX0NUVM11OC2
+[2026.06.06-17.56.53:747][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/1Q978DURAPMX0NUVM11OC26CB818D040F4E39D7B112A98649EBC5F.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/45/1Q978DURAPMX0NUVM11OC2.uasset'
+[2026.06.06-17.56.53:749][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/WBP_Victoria] ([2] browsable assets)...
+[2026.06.06-17.56.53:749][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_Victoria]
+[2026.06.06-17.56.53:749][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_Victoria" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Widgets/WBP_Victoria.uasset" SILENT=true
+[2026.06.06-17.56.53:759][688]LogSavePackage: Moving output files for package: /Game/Widgets/WBP_Victoria
+[2026.06.06-17.56.53:760][688]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/WBP_VictoriaFA5AEA134544EED5E31E098806809F5C.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Widgets/WBP_Victoria.uasset'
+[2026.06.06-17.56.53:782][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 435.783 ms (total: 786.505 ms)
+[2026.06.06-17.56.53:896][688]LogContentValidation: Display: Starting to validate 10 assets
+[2026.06.06-17.56.53:896][688]LogContentValidation: Enabled validators:
+[2026.06.06-17.56.53:897][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.06-17.56.53:897][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.06-17.56.53:897][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.06-17.56.53:897][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.06-17.56.53:897][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.06-17.56.53:897][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.06-17.56.53:898][688]AssetCheck: /Game/Blueprints/BP_Chest Validando recurso
+[2026.06.06-17.56.53:898][688]AssetCheck: /Game/Blueprints/BP_Door Validando recurso
+[2026.06.06-17.56.53:898][688]AssetCheck: /Game/Blueprints/BP_Enemy Validando recurso
+[2026.06.06-17.56.53:898][688]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validando recurso
+[2026.06.06-17.56.53:900][688]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.06-17.56.53:901][688]AssetCheck: /Game/Widgets/WBP_Victoria Validando recurso
+[2026.06.06-17.57.00:673][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3610.883057
+[2026.06.06-17.57.00:964][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-17.57.00:964][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3611.124268, Update Interval: 329.023102
+[2026.06.06-18.30.14:158][915]LogHttp: Warning: 000001BC2C7C0700: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700: libcurl info message cache 0 (Too old connection (2002 seconds idle), disconnect it)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700: libcurl info message cache 2 (shutting down connection #0)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700: libcurl info message cache 7 (shutting down connection #1)
+[2026.06.06-18.30.14:159][915]LogHttp: Warning: 000001BC2C7C0700 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE3E1D564-42D9-E382-9769-B4B7A39FFCAE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=fbf238b7458c25e9ae1e4da84f18c26f%7Ca88626e04ff445aa9ca8036b8f32d0ed%7Cb4b7f6e4-532e-4344-bb4b-77a161d4f5de&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.40s
+[2026.06.06-18.30.14:162][915]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-18.30.14:162][915]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-18.30.14:163][915]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: libcurl info message cache 0 (Found bundle for host: 0x1bb97880f30 [serially])
+[2026.06.06-18.30.14:163][915]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-18.30.14:163][915]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: libcurl info message cache 2 (Closing connection)
+[2026.06.06-18.30.14:163][915]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4BBEEE04-4505-2CE0-F62B-9081E7716551%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-18.30.14:164][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-18.30.14:164][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: libcurl info message cache 0 (Too old connection (1992 seconds idle), disconnect it)
+[2026.06.06-18.30.14:164][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2026.06.06-18.30.14:164][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: libcurl info message cache 2 (Closing connection)
+[2026.06.06-18.30.14:165][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.06.06-18.30.14:165][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.06.06-18.30.14:165][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.06.06-18.30.14:165][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-18.30.14:165][916]LogEOSSDK: Warning: LogHttp: 000001BBD6F27800: libcurl info message cache 7 (Closing connection)
+[2026.06.06-18.30.14:165][916]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-18.30.14:308][916]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4BBEEE04-4505-2CE0-F62B-9081E7716551%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.06.06-18.30.15:325][920]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-18.30.15:697][920]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-18.30.15:700][920]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-18.30.15:700][921]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-18.30.15:700][921]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: libcurl info message cache 4 (Closing connection)
+[2026.06.06-18.30.15:700][921]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-18.30.16:987][924]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-18.30.17:322][925]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-18.30.17:322][925]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-18.30.17:322][925]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-18.30.17:322][925]LogEOSSDK: Warning: LogHttp: 000001BBD6F2A800: libcurl info message cache 6 (Closing connection)
+[2026.06.06-18.30.17:322][925]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-18.30.17:322][925]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.06.06-18.30.26:143][983]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.06.06-18.30.28:888][988]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65352'.
+[2026.06.06-18.30.28:905][988]LogUdpMessaging: Display: Added local interface '192.168.1.8' to multicast group '230.0.0.1:6666'
+[2026.06.06-18.30.28:948][988]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.06.06-18.30.51:619][281]Cmd: DELETE
+[2026.06.06-18.30.51:620][281]Cmd: ACTOR DELETE
+[2026.06.06-18.30.51:799][281]LogEditorActor: Deleted Actor: BP_Enemy_C
+[2026.06.06-18.30.52:092][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2026.06.06-18.30.52:102][281]LogEditorActor: Deleted 1 Actors (0.405 secs)
+[2026.06.06-18.30.53:594][306]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-18.30.53:673][306]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-18.30.53:675][306]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-18.30.53:692][306]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 18.728 ms (total: 103.471 ms)
+[2026.06.06-18.30.53:716][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-18.30.53:746][306]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-18.30.53:895][306]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-18.30.53:898][306]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.843 ms (total: 31.590 ms)
+[2026.06.06-18.30.53:898][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149036s)
+[2026.06.06-18.30.53:898][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.150981s)
+[2026.06.06-18.30.53:952][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2026.06.06-18.30.53:968][306]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-18.30.54:096][306]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-18.30.54:097][306]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-18.30.54:097][306]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-18.30.54:098][306]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-18.30.54:114][306]LogWorldPartition: Display: WorldPartition initialize took 16.492 ms (total: 301.126 ms)
+[2026.06.06-18.30.54:122][306]LogPlayLevel: PIE: World Init took: (0.155398s)
+[2026.06.06-18.30.54:129][306]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.06.06-18.30.54:132][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-18.30.54:132][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-18.30.54:132][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-18.30.54:132][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-18.30.54:133][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-18.30.54:133][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-18.30.54:133][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-18.30.54:133][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-18.30.54:140][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-18.30.54:140][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-18.30.54:140][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-18.30.54:152][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-18.30.54:562][306]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-18.30.54:587][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-18.30.54:587][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-18.30.54:590][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-18.30.54:602][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.06.06-18.30.54:602][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.06.06-18.30.54:611][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.06.06-18.30.54:612][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.06.06-18.30.54:612][306]LogInit: FAudioDevice initialized with ID 14.
+[2026.06.06-18.30.54:613][306]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-18.30.54:617][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.06.06-18.30.54:777][306]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-18.30.54:837][306]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-13.30.54
+[2026.06.06-18.30.54:844][306]LogWorld: Bringing up level for play took: 0.055902
+[2026.06.06-18.30.54:884][306]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.06.06-18.30.55:124][306]PIE: El servidor ha iniciado sesión
+[2026.06.06-18.30.55:133][306]PIE: Tiempo de inicio total de la reproducción en el editor de 1,477 segundos.
+[2026.06.06-18.31.01:288][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5651.494141
+[2026.06.06-18.31.01:640][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-18.31.01:640][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5651.815918, Update Interval: 357.621399
+[2026.06.06-18.31.05:329][656]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.31.15:932][ 60]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.31.22:454][310]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-18.31.22:455][310]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-18.31.27:420][489]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.31.38:696][922]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.31.46:195][208]LogDerivedDataCache: C:/Users/maren/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.06-18.31.51:550][434]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 1
+[2026.06.06-18.31.51:554][434]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.32.03:214][899]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.32.14:745][353]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.32.29:376][915]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.32.42:034][454]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.32.55:482][985]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 2
+[2026.06.06-18.32.55:484][985]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.33.06:859][428]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.33.17:678][869]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.33.28:273][285]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.33.39:923][792]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.33.52:234][297]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 3
+[2026.06.06-18.33.52:325][297]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.33.54:783][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-18.33.54:783][400]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-18.33.54:801][400]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-18.33.54:833][400]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-18.33.54:858][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-18.33.54:862][400]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-18.33.55:034][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-18.33.55:090][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-18.33.55:186][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-18.33.55:194][400]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.06.06-18.33.55:207][400]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.06.06-18.33.55:218][400]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.06.06-18.33.55:401][400]LogUObjectHash: Compacting FUObjectHashTables data took  14.22ms
+[2026.06.06-18.33.55:897][401]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.06.06-18.34.55:192][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2026.06.06-18.34.55:198][886]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.074
+[2026.06.06-18.37.52:056][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6062.230957
+[2026.06.06-18.37.53:376][421]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-18.37.53:376][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6063.228027, Update Interval: 356.022827
+[2026.06.06-18.38.36:064][534]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-18.38.36:150][534]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-18.38.36:151][534]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-18.38.36:207][534]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 57.563 ms (total: 161.034 ms)
+[2026.06.06-18.38.36:221][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-18.38.36:244][534]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-18.38.36:406][534]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-18.38.36:408][534]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.639 ms (total: 35.230 ms)
+[2026.06.06-18.38.36:408][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163438s)
+[2026.06.06-18.38.36:408][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.165653s)
+[2026.06.06-18.38.36:460][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2026.06.06-18.38.36:469][534]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-18.38.36:583][534]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-18.38.36:583][534]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-18.38.36:583][534]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-18.38.36:584][534]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-18.38.36:598][534]LogWorldPartition: Display: WorldPartition initialize took 14.268 ms (total: 315.395 ms)
+[2026.06.06-18.38.36:606][534]LogPlayLevel: PIE: World Init took: (0.137820s)
+[2026.06.06-18.38.36:610][534]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.06.06-18.38.36:614][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-18.38.36:614][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-18.38.36:614][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-18.38.36:614][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-18.38.36:614][534]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-18.38.36:614][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-18.38.36:614][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-18.38.36:614][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-18.38.36:620][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-18.38.36:620][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-18.38.36:620][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-18.38.36:631][534]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-18.38.36:805][534]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-18.38.36:808][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-18.38.36:809][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-18.38.36:811][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-18.38.36:815][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.06.06-18.38.36:815][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.06.06-18.38.36:820][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.06.06-18.38.36:820][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.06.06-18.38.36:820][534]LogInit: FAudioDevice initialized with ID 15.
+[2026.06.06-18.38.36:821][534]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-18.38.36:822][534]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.06-18.38.36:880][534]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-18.38.36:906][534]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-13.38.36
+[2026.06.06-18.38.36:908][534]LogWorld: Bringing up level for play took: 0.023211
+[2026.06.06-18.38.36:928][534]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.06.06-18.38.37:037][534]PIE: El servidor ha iniciado sesión
+[2026.06.06-18.38.37:041][534]PIE: Tiempo de inicio total de la reproducción en el editor de 0,902 segundos.
+[2026.06.06-18.38.49:717][104]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.38.59:987][578]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.39.06:991][893]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-18.39.06:991][893]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-18.39.10:779][152]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.39.23:044][745]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.39.35:697][309]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 1
+[2026.06.06-18.39.35:698][309]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.39.43:916][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-18.39.43:917][666]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-18.39.43:917][666]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-18.39.43:917][666]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-18.39.43:919][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-18.39.43:919][666]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-18.39.43:929][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-18.39.43:935][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-18.39.43:978][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.06-18.39.43:978][666]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.06-18.39.43:978][666]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.06.06-18.39.43:998][666]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.06.06-18.39.44:006][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-18.39.44:013][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2026.06.06-18.39.44:166][667]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.06.06-18.40.29:766][575]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-18.40.29:801][575]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-18.40.29:802][575]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-18.40.29:806][575]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 4.002 ms (total: 165.036 ms)
+[2026.06.06-18.40.29:808][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-18.40.29:813][575]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-18.40.29:837][575]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-18.40.29:839][575]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.031 ms (total: 37.261 ms)
+[2026.06.06-18.40.29:839][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026662s)
+[2026.06.06-18.40.29:839][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.027472s)
+[2026.06.06-18.40.29:887][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2026.06.06-18.40.29:891][575]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-18.40.29:894][575]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-18.40.29:894][575]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-18.40.29:894][575]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-18.40.29:894][575]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-18.40.29:897][575]LogWorldPartition: Display: WorldPartition initialize took 2.797 ms (total: 318.192 ms)
+[2026.06.06-18.40.29:897][575]LogPlayLevel: PIE: World Init took: (0.006954s)
+[2026.06.06-18.40.29:898][575]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.06.06-18.40.29:899][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-18.40.29:899][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-18.40.29:899][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-18.40.29:899][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-18.40.29:899][575]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-18.40.29:899][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-18.40.29:899][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-18.40.29:899][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-18.40.29:899][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-18.40.29:899][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-18.40.29:899][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-18.40.29:903][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-18.40.30:024][575]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-18.40.30:024][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-18.40.30:025][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-18.40.30:025][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-18.40.30:026][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.06.06-18.40.30:026][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.06.06-18.40.30:030][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.06.06-18.40.30:030][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.06.06-18.40.30:030][575]LogInit: FAudioDevice initialized with ID 16.
+[2026.06.06-18.40.30:030][575]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-18.40.30:030][575]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.06-18.40.30:036][575]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-18.40.30:044][575]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-13.40.30
+[2026.06.06-18.40.30:044][575]LogWorld: Bringing up level for play took: 0.008003
+[2026.06.06-18.40.30:051][575]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.06.06-18.40.30:066][575]PIE: El servidor ha iniciado sesión
+[2026.06.06-18.40.30:069][575]PIE: Tiempo de inicio total de la reproducción en el editor de 0,269 segundos.
+[2026.06.06-18.40.42:238][ 94]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.40.52:370][520]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.41.03:728][974]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.41.15:819][430]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.42.03:765][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-18.42.03:766][708]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-18.42.03:766][708]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-18.42.03:767][708]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-18.42.03:771][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-18.42.03:771][708]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-18.42.03:781][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-18.42.03:792][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-18.42.03:835][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-18.42.03:836][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.06-18.42.03:836][708]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.06.06-18.42.03:842][708]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.06.06-18.42.03:865][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.06.06-18.42.03:997][709]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.06.06-18.42.06:072][777]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-18.42.06:100][777]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-18.42.06:100][777]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-18.42.06:102][777]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.662 ms (total: 166.698 ms)
+[2026.06.06-18.42.06:107][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-18.42.06:109][777]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-18.42.06:135][777]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-18.42.06:140][777]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.961 ms (total: 41.222 ms)
+[2026.06.06-18.42.06:140][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030928s)
+[2026.06.06-18.42.06:140][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.031150s)
+[2026.06.06-18.42.06:214][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2026.06.06-18.42.06:217][777]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-18.42.06:220][777]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-18.42.06:220][777]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-18.42.06:220][777]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-18.42.06:220][777]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-18.42.06:222][777]LogWorldPartition: Display: WorldPartition initialize took 2.303 ms (total: 320.496 ms)
+[2026.06.06-18.42.06:222][777]LogPlayLevel: PIE: World Init took: (0.005679s)
+[2026.06.06-18.42.06:223][777]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.06.06-18.42.06:225][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-18.42.06:225][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-18.42.06:225][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-18.42.06:225][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-18.42.06:225][777]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-18.42.06:225][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-18.42.06:225][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-18.42.06:225][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-18.42.06:225][777]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-18.42.06:225][777]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-18.42.06:225][777]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-18.42.06:228][777]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-18.42.06:340][777]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-18.42.06:340][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-18.42.06:340][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-18.42.06:340][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-18.42.06:342][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.06.06-18.42.06:342][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.06.06-18.42.06:361][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.06.06-18.42.06:361][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.06.06-18.42.06:362][777]LogInit: FAudioDevice initialized with ID 17.
+[2026.06.06-18.42.06:363][777]LogAudio: Display: Audio Device (ID: 17) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-18.42.06:363][777]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.06-18.42.06:368][777]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-18.42.06:373][777]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-13.42.06
+[2026.06.06-18.42.06:374][777]LogWorld: Bringing up level for play took: 0.004184
+[2026.06.06-18.42.06:379][777]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.06.06-18.42.06:394][777]PIE: El servidor ha iniciado sesión
+[2026.06.06-18.42.06:397][777]PIE: Tiempo de inicio total de la reproducción en el editor de 0,297 segundos.
+[2026.06.06-18.42.18:928][295]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.42.29:328][711]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.42.40:893][148]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.42.47:944][450]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-18.42.47:945][450]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-18.42.52:924][649]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.43.05:485][149]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 1
+[2026.06.06-18.43.05:487][149]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.43.21:215][809]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.43.33:764][305]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.43.45:736][776]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.43.58:418][347]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.44.12:097][925]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 2
+[2026.06.06-18.44.12:097][925]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.44.25:397][531]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.44.26:180][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6457.797363
+[2026.06.06-18.44.26:453][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-18.44.26:454][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6458.052734, Update Interval: 318.422791
+[2026.06.06-18.44.36:545][ 42]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.44.47:787][553]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.45.00:444][158]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.45.12:447][688]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 3
+[2026.06.06-18.45.12:450][688]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-18.45.13:694][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-18.45.13:694][749]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-18.45.13:694][749]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-18.45.13:695][749]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-18.45.13:698][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-18.45.13:698][749]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-18.45.13:706][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-18.45.13:731][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-18.45.13:789][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-18.45.13:791][749]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.06-18.45.13:791][749]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.06.06-18.45.13:794][749]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.06.06-18.45.13:806][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2026.06.06-18.45.13:961][750]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.06.06-18.49.18:782][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.06.06-18.49.19:973][809]LogSlate: Window 'Guardar contenido' being destroyed
+[2026.06.06-18.49.20:041][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.06-18.49.20:242][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.06.06-18.49.20:291][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.06-18.49.20:326][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.06-18.49.20:346][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Chest] ([2] browsable assets)...
+[2026.06.06-18.49.20:349][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Chest]
+[2026.06.06-18.49.20:349][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Chest" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Chest.uasset" SILENT=true
+[2026.06.06-18.49.20:505][809]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Chest
+[2026.06.06-18.49.20:507][809]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_ChestE065968844BEB93B290B4EB3B6E32E4B.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Chest.uasset'
+[2026.06.06-18.49.20:541][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 500.439 ms (total: 1.28 sec)
+[2026.06.06-18.49.20:629][809]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.06-18.49.20:629][809]LogContentValidation: Enabled validators:
+[2026.06.06-18.49.20:629][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.06-18.49.20:629][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.06-18.49.20:629][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.06-18.49.20:629][809]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.06-18.49.20:629][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.06-18.49.20:629][809]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.06-18.49.20:632][809]AssetCheck: /Game/Blueprints/BP_Chest Validando recurso
+[2026.06.06-19.01.05:404][841]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4BBEEE04-4505-2CE0-F62B-9081E7716551%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.05:405][841]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.05:406][841]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 0 (Too old connection (735 seconds idle), disconnect it)
+[2026.06.06-19.01.05:406][841]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 1 (Connection 7 seems to be dead)
+[2026.06.06-19.01.05:408][842]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 2 (Closing connection)
+[2026.06.06-19.01.05:408][842]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.06.06-19.01.05:408][842]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.06.06-19.01.05:408][842]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.06.06-19.01.05:408][842]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.05:408][842]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 7 (Closing connection)
+[2026.06.06-19.01.05:416][842]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4BBEEE04-4505-2CE0-F62B-9081E7716551%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.06.06-19.01.05:743][843]LogHttp: Warning: 000001BC1BB8E000: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000: libcurl info message cache 0 (Too old connection (734 seconds idle), disconnect it)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000: libcurl info message cache 1 (Connection 2 seems to be dead)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000: libcurl info message cache 2 (shutting down connection #2)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000: libcurl info message cache 7 (shutting down connection #3)
+[2026.06.06-19.01.05:744][843]LogHttp: Warning: 000001BC1BB8E000 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE3E1D564-42D9-E382-9769-B4B7A39FFCAE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=fbf238b7458c25e9ae1e4da84f18c26f%7Ca88626e04ff445aa9ca8036b8f32d0ed%7Cb4b7f6e4-532e-4344-bb4b-77a161d4f5de&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.93s
+[2026.06.06-19.01.05:744][843]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 1 (Closing connection)
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 0 (Found bundle for host: 0x1bb978808d0 [serially])
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 2 (Closing connection)
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.05:746][843]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-19.01.07:080][847]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.07:080][847]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 3 (Closing connection)
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 3 (Found bundle for host: 0x1bb97880a80 [serially])
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 5 (Closing connection)
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.07:517][848]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-19.01.08:747][852]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.08:747][853]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-19.01.09:116][853]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.09:116][854]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.09:116][854]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.09:116][854]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 5 (Closing connection)
+[2026.06.06-19.01.09:116][854]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.09:116][854]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.09:116][854]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 6 (Found bundle for host: 0x1bb978806f0 [serially])
+[2026.06.06-19.01.09:118][854]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.09:118][854]LogEOSSDK: Warning: LogHttp: 000001BBF188BA00: libcurl info message cache 8 (Closing connection)
+[2026.06.06-19.01.09:118][854]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.09:118][854]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A9A505E144C0A35B55146E8B894EA652
+[2026.06.06-19.01.09:118][854]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.06.06-19.01.10:412][857]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.10:746][858]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.10:746][858]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.10:746][858]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.10:747][858]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 7 (Closing connection)
+[2026.06.06-19.01.10:747][858]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.12:081][863]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.12:412][863]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.12:413][863]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.12:413][863]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.12:413][863]LogEOSSDK: Warning: LogHttp: 000001BBF188E400: libcurl info message cache 9 (Closing connection)
+[2026.06.06-19.01.12:413][863]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.12:413][863]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.06.06-19.01.13:087][865]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.06.06-19.01.13:413][866]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.13:413][866]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.13:413][866]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.13:413][866]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 1 (Closing connection)
+[2026.06.06-19.01.13:413][866]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.14:414][869]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.14:899][870]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.14:899][870]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.14:899][870]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.14:899][870]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 3 (Closing connection)
+[2026.06.06-19.01.14:899][870]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.16:082][874]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.16:457][875]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.16:457][875]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.16:457][875]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.16:457][876]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 5 (Closing connection)
+[2026.06.06-19.01.16:457][876]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.17:498][878]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.17:747][879]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.17:747][879]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.17:747][879]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.17:747][879]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 7 (Closing connection)
+[2026.06.06-19.01.17:747][880]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.18:747][882]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.19:106][883]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.06-19.01.19:106][884]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.06-19.01.19:107][884]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2026.06.06-19.01.19:108][884]LogEOSSDK: Warning: LogHttp: 000001BBF188A800: libcurl info message cache 9 (Closing connection)
+[2026.06.06-19.01.19:108][884]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.06.06-19.01.19:108][884]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.06.06-19.01.19:752][885]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.06.06-19.01.56:650][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7508.246094
+[2026.06.06-19.01.56:880][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-19.01.56:881][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7508.447266, Update Interval: 333.492859
+[2026.06.06-19.01.57:786][274]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Object.BP_Object
+[2026.06.06-19.01.57:867][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.06.06-19.02.05:811][465]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-19.02.05:823][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-19.02.06:664][465]LogUObjectHash: Compacting FUObjectHashTables data took  14.32ms
+[2026.06.06-19.02.24:034][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.06.06-19.03.24:806][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameInstance.BP_GameInstance
+[2026.06.06-19.03.24:811][473]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.06.06-19.03.30:163][746]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-19.03.30:164][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-19.03.30:344][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2026.06.06-19.05.03:926][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.06.06-19.05.10:128][550]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-19.05.10:161][550]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-19.05.10:163][550]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-19.05.10:191][550]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 28.783 ms (total: 195.481 ms)
+[2026.06.06-19.05.10:205][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-19.05.10:226][550]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-19.05.10:294][550]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-19.05.10:297][550]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.258 ms (total: 44.480 ms)
+[2026.06.06-19.05.10:297][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070404s)
+[2026.06.06-19.05.10:297][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.071707s)
+[2026.06.06-19.05.10:339][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.06.06-19.05.10:350][550]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-19.05.10:385][550]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-19.05.10:385][550]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-19.05.10:385][550]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-19.05.10:386][550]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-19.05.10:391][550]LogWorldPartition: Display: WorldPartition initialize took 7.098 ms (total: 327.595 ms)
+[2026.06.06-19.05.10:395][550]LogPlayLevel: PIE: World Init took: (0.046484s)
+[2026.06.06-19.05.10:401][550]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.06.06-19.05.10:404][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-19.05.10:404][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-19.05.10:404][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-19.05.10:404][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-19.05.10:404][550]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-19.05.10:404][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-19.05.10:404][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-19.05.10:404][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-19.05.10:409][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-19.05.10:409][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-19.05.10:409][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-19.05.10:423][550]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-19.05.10:807][550]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-19.05.10:813][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-19.05.10:813][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-19.05.10:815][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-19.05.10:820][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.06.06-19.05.10:820][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.06.06-19.05.10:824][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.06.06-19.05.10:824][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.06.06-19.05.10:825][550]LogInit: FAudioDevice initialized with ID 18.
+[2026.06.06-19.05.10:825][550]LogAudio: Display: Audio Device (ID: 18) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-19.05.10:828][550]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.06-19.05.10:869][550]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-19.05.10:882][550]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-14.05.10
+[2026.06.06-19.05.10:885][550]LogWorld: Bringing up level for play took: 0.012282
+[2026.06.06-19.05.10:908][550]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.06.06-19.05.11:068][550]PIE: El servidor ha iniciado sesión
+[2026.06.06-19.05.11:072][550]PIE: Tiempo de inicio total de la reproducción en el editor de 0,918 segundos.
+[2026.06.06-19.05.22:850][ 36]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.05.33:515][526]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.05.45:046][ 64]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.05.56:557][587]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.06.09:805][ 99]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.06.25:312][721]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.06.37:602][254]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.06.50:071][828]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.07.03:175][414]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.07.17:204][ 44]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.07.27:222][471]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.07.38:159][975]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.07.49:898][516]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.08.02:146][ 71]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.08.07:806][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7879.420898
+[2026.06.06-19.08.08:011][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-19.08.08:013][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7879.596191, Update Interval: 353.358551
+[2026.06.06-19.08.14:783][609]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.08.27:793][184]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.08.38:450][633]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.08.49:620][ 89]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.09.02:219][617]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.09.14:919][ 83]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-19.09.21:294][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-19.09.21:294][378]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-19.09.21:299][378]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-19.09.21:302][378]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-19.09.21:308][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-19.09.21:308][378]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-19.09.21:337][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-19.09.21:347][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-19.09.21:408][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.06-19.09.21:414][378]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.06-19.09.21:418][378]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.06.06-19.09.21:424][378]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.06.06-19.09.21:440][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-19.09.21:469][378]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2026.06.06-19.09.21:647][379]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.06.06-19.09.26:055][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2026.06.06-19.10.00:726][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2026.06.06-19.10.00:737][554]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.081
+[2026.06.06-19.10.00:743][554]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Chest] ([2] browsable assets)...
+[2026.06.06-19.10.00:768][554]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Chest.BP_Chest]
+[2026.06.06-19.10.00:768][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Chest]
+[2026.06.06-19.10.00:858][554]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Chest_Auto4
+[2026.06.06-19.10.00:862][554]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Chest_Auto431D461D644C15F16E11EDA9D844F949F.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/BP_Chest_Auto4.uasset'
+[2026.06.06-19.10.00:870][554]LogFileHelpers: Auto-saving content packages took 0.134
+[2026.06.06-19.10.10:714][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.06.06-19.10.11:821][107]LogSlate: Window 'Guardar contenido' being destroyed
+[2026.06.06-19.10.11:849][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.06-19.10.11:921][107]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Chest] ([2] browsable assets)...
+[2026.06.06-19.10.11:921][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Chest]
+[2026.06.06-19.10.11:921][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Chest" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Chest.uasset" SILENT=true
+[2026.06.06-19.10.11:962][107]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Chest
+[2026.06.06-19.10.11:964][107]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Chest9407656D48A740EA3B0D58A0EE8D9933.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_Chest.uasset'
+[2026.06.06-19.10.11:991][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.367 ms (total: 1.42 sec)
+[2026.06.06-19.10.12:070][107]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.06-19.10.12:070][107]LogContentValidation: Enabled validators:
+[2026.06.06-19.10.12:071][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.06-19.10.12:071][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.06-19.10.12:071][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.06-19.10.12:071][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.06-19.10.12:071][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.06-19.10.12:071][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.06-19.10.12:073][107]AssetCheck: /Game/Blueprints/BP_Chest Validando recurso
