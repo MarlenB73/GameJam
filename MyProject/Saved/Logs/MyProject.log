@@ -1634,3 +1634,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.06-22.04.12:492][503]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2026.06.06-22.04.12:492][503]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2026.06.06-22.04.12:492][503]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.06-22.04.13:873][503]LogEditorDataStorage: Deinitializing
+[2026.06.06-22.04.15:016][503]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.06.06-22.04.15:225][503]LogExit: Editor shut down
+[2026.06.06-22.04.15:251][503]LogExit: Transaction tracking system shut down
+[2026.06.06-22.04.16:748][503]LogExit: Object subsystem successfully closed.
+[2026.06.06-22.04.16:770][503]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.06-22.04.17:393][503]LogMemoryProfiler: Shutdown
+[2026.06.06-22.04.17:394][503]LogNetworkingProfiler: Shutdown
+[2026.06.06-22.04.17:394][503]LoadingProfiler: Shutdown
+[2026.06.06-22.04.17:394][503]LogTimingProfiler: Shutdown
+[2026.06.06-22.04.17:403][503]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.06.06-22.04.17:404][503]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.06.06-22.04.18:188][503]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.06.06-22.04.18:243][503]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.06.06-22.04.18:244][503]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDBA554E8-45DA-A3E0-120A-44A8FD015D32%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=fbf238b7458c25e9ae1e4da84f18c26f%7Ca88626e04ff445aa9ca8036b8f32d0ed%7Cb4b7f6e4-532e-4344-bb4b-77a161d4f5de&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
