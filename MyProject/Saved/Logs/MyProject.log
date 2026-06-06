@@ -1656,3 +1656,430 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.06-12.26.47:196][352]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.06-12.26.47:196][352]AssetCheck: /Game/Blueprints/BP_HidingSpot Validando recurso
 [2026.06.06-12.26.47:227][352]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.06-12.28.32:489][483]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.06.06-12.28.33:761][512]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.06.06-12.28.33:767][512]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.06.06-12.28.35:568][515]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.06.06-12.29.03:456][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2026.06.06-12.29.28:923][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.06.06-12.29.46:338][312]LogSlate: Took 0.014603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.06.06-12.29.59:619][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2026.06.06-12.30.59:043][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1393.938110
+[2026.06.06-12.30.59:310][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-12.30.59:310][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1394.186035, Update Interval: 302.916962
+[2026.06.06-12.31.07:947][942]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.06.06-12.31.07:999][942]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.06.06-12.31.08:071][943]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.06.06-12.31.19:065][479]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Hide
+[2026.06.06-12.31.19:091][479]LogContentBrowser: End creating deferred item NewInputAction
+[2026.06.06-12.31.20:850][554]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Hide.IA_Hide
+[2026.06.06-12.31.27:238][848]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/Actions/IMC_Girl.IMC_Girl
+[2026.06.06-12.31.47:462][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.06-12.31.47:595][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Girl] ([1] browsable assets)...
+[2026.06.06-12.31.47:596][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Girl]
+[2026.06.06-12.31.47:596][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Girl" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Input/Actions/IMC_Girl.uasset" SILENT=true
+[2026.06.06-12.31.47:611][758]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Girl
+[2026.06.06-12.31.47:615][758]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/IMC_GirlB5EE289A47895987FF8587BD1F4C5762.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Input/Actions/IMC_Girl.uasset'
+[2026.06.06-12.31.47:641][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.478 ms (total: 519.350 ms)
+[2026.06.06-12.31.47:696][758]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.06-12.31.47:697][758]LogContentValidation: Enabled validators:
+[2026.06.06-12.31.47:697][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.06-12.31.47:697][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.06-12.31.47:697][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.06-12.31.47:697][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.06-12.31.47:697][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.06-12.31.47:697][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.06-12.31.47:698][758]AssetCheck: /Game/Input/Actions/IMC_Girl Validando recurso
+[2026.06.06-12.32.04:566][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.06.06-12.35.32:163][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2026.06.06-12.35.57:776][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.06.06-12.36.27:057][698]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1721.957520
+[2026.06.06-12.36.27:385][709]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-12.36.27:385][709]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1722.215454, Update Interval: 352.986847
+[2026.06.06-12.36.55:529][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.06.06-12.37.51:433][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.06.06-12.37.51:435][762]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.050
+[2026.06.06-12.37.51:437][762]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-12.37.51:458][762]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.06.06-12.37.51:735][762]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C]
+[2026.06.06-12.37.51:765][762]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.06.06-12.37.51:765][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-12.37.51:863][762]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2026.06.06-12.37.51:864][762]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto228D7DB9A4BAC0308E1FCF28F7342DF3F.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2026.06.06-12.37.51:870][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.06.06-12.37.51:871][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_HUD]
+[2026.06.06-12.37.51:871][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Widgets/WBP_HUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.06.06-12.37.51:908][762]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_HUD_Auto2
+[2026.06.06-12.37.51:908][762]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/WBP_HUD_Auto2F9EC1EEC472E48251FDB298B4074D8CA.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Widgets/WBP_HUD_Auto2.uasset'
+[2026.06.06-12.37.51:910][762]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_HidingSpot] ([2] browsable assets)...
+[2026.06.06-12.37.51:933][762]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_HidingSpot.BP_HidingSpot]
+[2026.06.06-12.37.51:933][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HidingSpot]
+[2026.06.06-12.37.51:962][762]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_HidingSpot_Auto2
+[2026.06.06-12.37.51:962][762]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_HidingSpot_Auto2A8059419471341B906C612AA5B2F8FD0.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/BP_HidingSpot_Auto2.uasset'
+[2026.06.06-12.37.51:967][762]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Hide] ([1] browsable assets)...
+[2026.06.06-12.37.51:967][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Hide]
+[2026.06.06-12.37.51:980][762]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Hide_Auto2
+[2026.06.06-12.37.51:980][762]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/IA_Hide_Auto268C86D7B4FA9A8C5F926389A3BE7D075.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Input/Actions/IA_Hide_Auto2.uasset'
+[2026.06.06-12.37.51:982][762]LogFileHelpers: Auto-saving content packages took 0.547
+[2026.06.06-12.39.49:650][830]LogBlueprint: Error: [AssetLog] C:\Users\maren\Downloads\GameJam\GameJam\MyProject\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Crear evento  Error de firma: La función o el evento “ShowHidePrompt” no coinciden con la firma necesaria: ¿han cambiado el delegado, la función o el evento?
+[2026.06.06-12.39.49:845][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2026.06.06-12.40.54:232][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.06.06-12.42.34:241][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.06.06-12.42.45:688][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2026.06.06-12.43.06:822][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2121.730957
+[2026.06.06-12.43.07:073][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-12.43.07:073][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2121.965088, Update Interval: 326.966766
+[2026.06.06-12.44.00:450][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.06.06-12.44.03:761][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2026.06.06-12.47.29:848][706]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UUserWidget::AddToViewport' [No se ha encontrado el elemento.]
+[2026.06.06-12.48.08:586][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2026.06.06-12.48.08:590][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.066
+[2026.06.06-12.48.08:590][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-12.48.08:648][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.06.06-12.48.08:648][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-12.48.08:698][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2026.06.06-12.48.08:699][644]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto3537019B042A1A29FB9BFBBA7AF721055.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2026.06.06-12.48.08:702][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_HidingSpot] ([2] browsable assets)...
+[2026.06.06-12.48.08:719][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_HidingSpot.BP_HidingSpot]
+[2026.06.06-12.48.08:720][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HidingSpot]
+[2026.06.06-12.48.08:744][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_HidingSpot_Auto3
+[2026.06.06-12.48.08:744][644]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_HidingSpot_Auto3E0085DF7443E065504F0719BB5A3E804.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/BP_HidingSpot_Auto3.uasset'
+[2026.06.06-12.48.08:746][644]LogFileHelpers: Auto-saving content packages took 0.157
+[2026.06.06-12.48.37:605][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.06.06-12.48.46:065][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2026.06.06-12.49.09:677][851]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2484.593994
+[2026.06.06-12.49.10:010][871]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-12.49.10:010][872]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2484.910889, Update Interval: 335.210419
+[2026.06.06-12.54.10:045][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2026.06.06-12.55.29:284][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2864.197266
+[2026.06.06-12.55.29:967][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-12.55.29:967][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2864.864014, Update Interval: 300.095215
+[2026.06.06-12.58.40:418][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2026.06.06-12.58.40:422][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.053
+[2026.06.06-12.58.40:422][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-12.58.40:468][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.06.06-12.58.40:468][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-12.58.40:515][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2026.06.06-12.58.40:516][731]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto4E59D1DEE4135E314244BDC805321B1FD.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2026.06.06-12.58.40:518][731]LogFileHelpers: Auto-saving content packages took 0.097
+[2026.06.06-13.01.15:492][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3210.404053
+[2026.06.06-13.01.16:494][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-13.01.16:498][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3211.071289, Update Interval: 341.163361
+[2026.06.06-13.07.48:684][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3603.592285
+[2026.06.06-13.07.49:686][537]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-13.07.49:686][537]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3604.261475, Update Interval: 332.372192
+[2026.06.06-13.08.41:248][689]LogUObjectHash: Compacting FUObjectHashTables data took  13.29ms
+[2026.06.06-13.08.41:268][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.489
+[2026.06.06-13.08.41:279][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-13.08.41:399][689]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.06.06-13.08.41:399][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-13.08.41:550][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5
+[2026.06.06-13.08.41:554][689]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto5604414F7401C28F457A8F985CB32B31B.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5.uasset'
+[2026.06.06-13.08.41:559][689]LogFileHelpers: Auto-saving content packages took 0.286
+[2026.06.06-13.09.06:001][764]LogDerivedDataCache: C:/Users/maren/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.037 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.06-13.13.54:209][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3969.113037
+[2026.06.06-13.13.54:455][350]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-13.13.54:455][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3969.329834, Update Interval: 337.290558
+[2026.06.06-13.19.03:577][568]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2026.06.06-13.19.03:585][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.130
+[2026.06.06-13.19.03:586][568]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-13.19.03:643][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.06.06-13.19.03:644][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-13.19.03:699][568]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6
+[2026.06.06-13.19.03:699][568]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto64B4FC4E94D6C4440EA36939775632250.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6.uasset'
+[2026.06.06-13.19.03:702][568]LogFileHelpers: Auto-saving content packages took 0.117
+[2026.06.06-13.20.23:089][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4357.986816
+[2026.06.06-13.20.23:308][897]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-13.20.23:309][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4358.191406, Update Interval: 324.368408
+[2026.06.06-13.26.45:725][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4740.612793
+[2026.06.06-13.26.47:059][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-13.26.47:059][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4741.612793, Update Interval: 351.778320
+[2026.06.06-13.29.56:681][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2026.06.06-13.29.56:684][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.132
+[2026.06.06-13.29.56:686][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-13.29.56:731][779]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.06.06-13.29.56:731][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-13.29.56:784][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7
+[2026.06.06-13.29.56:784][779]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto7873B603D4203BDB05AFDB583DD432860.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7.uasset'
+[2026.06.06-13.29.56:786][779]LogFileHelpers: Auto-saving content packages took 0.101
+[2026.06.06-13.31.20:929][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2026.06.06-13.33.27:698][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5142.606934
+[2026.06.06-13.33.27:992][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-13.33.27:993][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5142.849609, Update Interval: 317.005524
+[2026.06.06-13.34.18:670][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2026.06.06-13.34.38:484][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.06.06-13.36.14:739][688]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HidingSpot.BP_HidingSpot_C
+[2026.06.06-13.36.14:739][688]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HidingSpot.BP_HidingSpot_C
+[2026.06.06-13.36.14:751][688]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HidingSpot.BP_HidingSpot as actor: BP_HidingSpot_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_HidingSpot_C_0
+[2026.06.06-13.36.14:755][688]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HidingSpot.BP_HidingSpot as actor: BP_HidingSpot_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_HidingSpot_C_0
+[2026.06.06-13.36.14:772][688]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.06.06-13.36.15:938][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2026.06.06-13.36.15:947][717]LogEditorActor: Deleted 0 Actors (0.074 secs)
+[2026.06.06-13.36.15:959][717]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HidingSpot.BP_HidingSpot_C
+[2026.06.06-13.36.15:959][717]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_HidingSpot.BP_HidingSpot_C
+[2026.06.06-13.36.16:012][717]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HidingSpot.BP_HidingSpot as actor: BP_HidingSpot_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_HidingSpot_C_UAID_A8E291C41BD923E202_1773416311
+[2026.06.06-13.36.16:015][717]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_HidingSpot.BP_HidingSpot as actor: BP_HidingSpot_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_HidingSpot_C_UAID_A8E291C41BD923E202_1773416311
+[2026.06.06-13.36.48:112][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.06-13.36.48:224][253]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/Y1/XBZFI64GBU5V7OWTKWYD70
+[2026.06.06-13.36.48:225][253]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/XBZFI64GBU5V7OWTKWYD70980EF70B4D4E59455B0842B8A5992702.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/Y1/XBZFI64GBU5V7OWTKWYD70.uasset'
+[2026.06.06-13.36.48:285][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.658 ms (total: 692.009 ms)
+[2026.06.06-13.36.48:398][253]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.06-13.36.48:398][253]LogContentValidation: Enabled validators:
+[2026.06.06-13.36.48:399][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.06-13.36.48:399][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.06-13.36.48:399][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.06-13.36.48:399][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.06-13.36.48:399][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.06-13.36.48:399][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.06-13.36.48:402][253]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.06-13.36.48:477][253]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.06-13.36.50:432][302]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-13.36.50:470][302]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-13.36.50:472][302]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-13.36.50:487][302]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 15.583 ms
+[2026.06.06-13.36.50:504][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-13.36.50:665][302]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.06.06-13.36.50:667][302]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.06.06-13.36.50:675][302]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-13.36.50:740][302]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-13.36.50:745][302]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.797 ms
+[2026.06.06-13.36.50:746][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068776s)
+[2026.06.06-13.36.50:746][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.070642s)
+[2026.06.06-13.36.50:811][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2026.06.06-13.36.50:829][302]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-13.36.50:961][302]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-13.36.50:961][302]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-13.36.50:962][302]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-13.36.50:962][302]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-13.36.50:975][302]LogWorldPartition: Display: WorldPartition initialize took 14.397 ms (total: 673.908 ms)
+[2026.06.06-13.36.50:983][302]LogPlayLevel: PIE: World Init took: (0.156461s)
+[2026.06.06-13.36.50:991][302]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.06.06-13.36.50:994][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-13.36.50:994][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-13.36.50:994][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-13.36.50:994][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-13.36.50:994][302]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-13.36.50:996][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-13.36.50:996][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-13.36.50:996][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-13.36.51:003][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-13.36.51:003][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-13.36.51:003][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-13.36.51:013][302]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-13.36.51:447][302]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-13.36.51:452][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-13.36.51:454][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-13.36.51:458][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-13.36.51:462][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.06.06-13.36.51:463][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.06.06-13.36.51:465][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.06.06-13.36.51:465][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.06.06-13.36.51:466][302]LogInit: FAudioDevice initialized with ID 2.
+[2026.06.06-13.36.51:466][302]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-13.36.51:471][302]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.06-13.36.51:622][302]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-13.36.51:647][302]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-08.36.51
+[2026.06.06-13.36.51:651][302]LogWorld: Bringing up level for play took: 0.026494
+[2026.06.06-13.36.51:678][302]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.06.06-13.36.51:966][302]PIE: El servidor ha iniciado sesión
+[2026.06.06-13.36.51:970][302]PIE: Tiempo de inicio total de la reproducción en el editor de 1,509 segundos.
+[2026.06.06-13.36.59:867][533]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-13.36.59:868][533]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-13.37.08:103][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-13.37.08:103][821]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-13.37.08:116][821]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-13.37.08:128][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-13.37.08:130][821]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-13.37.08:160][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-13.37.08:180][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-13.37.08:244][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.06-13.37.08:247][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.06-13.37.08:250][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.06.06-13.37.08:266][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.06.06-13.37.08:308][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-13.37.08:377][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2026.06.06-13.37.08:428][822]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.06.06-13.37.16:778][964]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.06.06-13.37.16:798][964]LogContentBrowser: Creating deferred item: NewFolder
+[2026.06.06-13.37.16:866][965]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.06.06-13.37.25:226][164]LogContentBrowser: Attempting asset rename: NewFolder -> Escondites
+[2026.06.06-13.37.25:251][164]LogContentBrowser: End creating deferred item NewFolder
+[2026.06.06-13.37.40:598][252]LogSlate: Window 'Elige la clase padre' being destroyed
+[2026.06.06-13.37.40:632][252]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.06.06-13.37.40:648][252]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.06.06-13.37.40:718][254]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.06.06-13.37.51:217][517]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Cama
+[2026.06.06-13.37.51:265][517]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.06.06-13.37.51:268][517]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.06.06-13.37.53:769][566]Cmd: DELETE
+[2026.06.06-13.37.53:770][566]Cmd: ACTOR DELETE
+[2026.06.06-13.37.53:869][566]LogEditorActor: Deleted Actor: BP_HidingSpot_C
+[2026.06.06-13.37.53:942][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.06.06-13.37.53:946][566]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2026.06.06-13.37.56:467][619]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Escondites/BP_Cama.BP_Cama_C
+[2026.06.06-13.37.56:467][619]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Escondites/BP_Cama.BP_Cama_C
+[2026.06.06-13.37.56:470][619]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Escondites/BP_Cama.BP_Cama as actor: BP_Cama_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Cama_C_0
+[2026.06.06-13.37.56:472][619]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Escondites/BP_Cama.BP_Cama as actor: BP_Cama_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Cama_C_0
+[2026.06.06-13.37.58:158][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.06.06-13.37.58:161][659]LogEditorActor: Deleted 0 Actors (0.080 secs)
+[2026.06.06-13.37.58:170][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Escondites/BP_Cama.BP_Cama_C
+[2026.06.06-13.37.58:170][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Escondites/BP_Cama.BP_Cama_C
+[2026.06.06-13.37.58:179][659]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Escondites/BP_Cama.BP_Cama as actor: BP_Cama_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Cama_C_UAID_A8E291C41BD923E202_1875623312
+[2026.06.06-13.37.58:181][659]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Escondites/BP_Cama.BP_Cama as actor: BP_Cama_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Cama_C_UAID_A8E291C41BD923E202_1875623312
+[2026.06.06-13.38.31:979][249]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-13.38.32:019][249]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-13.38.32:020][249]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-13.38.32:027][249]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 7.637 ms (total: 23.221 ms)
+[2026.06.06-13.38.32:029][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-13.38.32:031][249]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-13.38.32:064][249]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-13.38.32:067][249]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.653 ms (total: 7.451 ms)
+[2026.06.06-13.38.32:067][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037121s)
+[2026.06.06-13.38.32:069][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.037455s)
+[2026.06.06-13.38.32:133][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.06.06-13.38.32:136][249]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-13.38.32:140][249]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-13.38.32:140][249]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-13.38.32:140][249]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-13.38.32:140][249]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-13.38.32:141][249]LogWorldPartition: Display: WorldPartition initialize took 1.818 ms (total: 675.727 ms)
+[2026.06.06-13.38.32:141][249]LogPlayLevel: PIE: World Init took: (0.004916s)
+[2026.06.06-13.38.32:142][249]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.06.06-13.38.32:142][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-13.38.32:142][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-13.38.32:142][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-13.38.32:142][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-13.38.32:142][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-13.38.32:142][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-13.38.32:142][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-13.38.32:142][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-13.38.32:142][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-13.38.32:142][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-13.38.32:142][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-13.38.32:145][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-13.38.32:251][249]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-13.38.32:251][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-13.38.32:251][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-13.38.32:251][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-13.38.32:252][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.06.06-13.38.32:252][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.06.06-13.38.32:257][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.06.06-13.38.32:257][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.06.06-13.38.32:257][249]LogInit: FAudioDevice initialized with ID 3.
+[2026.06.06-13.38.32:257][249]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-13.38.32:257][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.06.06-13.38.32:263][249]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-13.38.32:267][249]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-08.38.32
+[2026.06.06-13.38.32:268][249]LogWorld: Bringing up level for play took: 0.004300
+[2026.06.06-13.38.32:271][249]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.06.06-13.38.32:280][249]PIE: El servidor ha iniciado sesión
+[2026.06.06-13.38.32:282][249]PIE: Tiempo de inicio total de la reproducción en el editor de 0,263 segundos.
+[2026.06.06-13.38.39:493][544]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-13.38.39:493][544]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-13.39.24:938][117]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5499.817871
+[2026.06.06-13.39.25:196][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-13.39.25:197][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5500.057617, Update Interval: 358.698090
+[2026.06.06-13.39.37:189][624]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_1' was already added to the screen.
+[2026.06.06-13.39.37:189][624]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-13.39.50:467][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-13.39.50:468][128]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-13.39.50:468][128]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-13.39.50:470][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-13.39.50:470][128]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-13.39.50:474][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-13.39.50:489][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-13.39.50:538][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.06-13.39.50:539][128]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.06.06-13.39.50:539][128]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.06.06-13.39.50:542][128]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.06.06-13.39.50:546][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-13.39.50:552][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2026.06.06-13.39.50:630][129]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.06.06-13.40.12:761][247]LogSlate: Window 'Elige la clase padre' being destroyed
+[2026.06.06-13.40.12:783][247]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.06.06-13.40.12:813][247]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.06.06-13.40.12:852][248]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.06.06-13.40.18:558][313]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2026.06.06-13.40.18:619][313]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.06.06-13.40.18:641][313]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.06.06-13.40.22:601][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.06.06-13.40.22:964][347]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.06.06-13.40.22:991][347]LogSlate: Took 0.021692 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.06.06-13.40.24:245][347]LogSlate: Window 'Delete Assets' being destroyed
+[2026.06.06-13.40.24:518][347]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Escondites/NewBlueprint.NewBlueprint
+	Asset Type: Blueprint
+[2026.06.06-13.40.25:846][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.06.06-13.40.25:970][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.06.06-13.40.26:023][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.06.06-13.40.26:068][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.06-13.41.33:395][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.06.06-13.41.33:415][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/TI/I48TPFNPW8PLOC43Z5G3I7_Auto8
+[2026.06.06-13.41.33:415][ 76]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/I48TPFNPW8PLOC43Z5G3I7_Auto8837CFFE84DF6E4A08E8E1FA692022E0E.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/TI/I48TPFNPW8PLOC43Z5G3I7_Auto8.uasset'
+[2026.06.06-13.41.33:417][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.086
+[2026.06.06-13.41.33:417][ 76]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2026.06.06-13.41.33:419][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-13.41.33:435][ 76]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.06.06-13.41.33:435][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-13.41.33:521][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8
+[2026.06.06-13.41.33:522][ 76]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto8B00C293045BEBA0A51DACB972779F0F7.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8.uasset'
+[2026.06.06-13.41.33:531][ 76]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Escondites/BP_Cama] ([2] browsable assets)...
+[2026.06.06-13.41.33:540][ 76]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Escondites/BP_Cama.BP_Cama]
+[2026.06.06-13.41.33:540][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Escondites/BP_Cama]
+[2026.06.06-13.41.33:560][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Escondites/BP_Cama_Auto8
+[2026.06.06-13.41.33:560][ 76]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Cama_Auto89B4EB1BA456903A645BCAC9F9F18E187.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/Escondites/BP_Cama_Auto8.uasset'
+[2026.06.06-13.41.33:561][ 76]LogFileHelpers: Auto-saving content packages took 0.143
+[2026.06.06-13.41.57:366][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.06.06-13.41.58:314][320]LogSlate: Window 'Guardar contenido' being destroyed
+[2026.06.06-13.41.58:366][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.06-13.41.58:528][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.06.06-13.41.58:581][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.06.06-13.41.58:633][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.06.06-13.41.58:670][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Escondites/BP_Cama] ([2] browsable assets)...
+[2026.06.06-13.41.58:670][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Escondites/BP_Cama]
+[2026.06.06-13.41.58:670][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Escondites/BP_Cama" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/Escondites/BP_Cama.uasset" SILENT=true
+[2026.06.06-13.41.58:690][320]LogSavePackage: Moving output files for package: /Game/Blueprints/Escondites/BP_Cama
+[2026.06.06-13.41.58:690][320]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_CamaBD75B8CF4ABCAD97958ACA8B27645737.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/Escondites/BP_Cama.uasset'
+[2026.06.06-13.41.58:716][320]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/TI/I48TPFNPW8PLOC43Z5G3I7
+[2026.06.06-13.41.58:716][320]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/I48TPFNPW8PLOC43Z5G3I7E9FBCD2443092E88D9BAC29EE22103DB.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/TI/I48TPFNPW8PLOC43Z5G3I7.uasset'
+[2026.06.06-13.41.58:720][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-13.41.58:720][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-13.41.58:760][320]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.06.06-13.41.58:763][320]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter2766BBFC4BB9D23B726881B8424A6F08.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.06.06-13.41.58:770][320]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_HidingSpot] ([2] browsable assets)...
+[2026.06.06-13.41.58:790][320]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_HidingSpot.BP_HidingSpot]
+[2026.06.06-13.41.58:790][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HidingSpot]
+[2026.06.06-13.41.58:790][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HidingSpot" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_HidingSpot.uasset" SILENT=true
+[2026.06.06-13.41.58:827][320]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HidingSpot
+[2026.06.06-13.41.58:828][320]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_HidingSpot18AA75014B5009BAB419FAAB4207F7AD.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Blueprints/BP_HidingSpot.uasset'
+[2026.06.06-13.41.58:837][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Hide] ([1] browsable assets)...
+[2026.06.06-13.41.58:838][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Hide]
+[2026.06.06-13.41.58:838][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Hide" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Input/Actions/IA_Hide.uasset" SILENT=true
+[2026.06.06-13.41.58:850][320]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Hide
+[2026.06.06-13.41.58:850][320]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/IA_Hide09ECBD274227559A063F8988D07E6B5E.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Input/Actions/IA_Hide.uasset'
+[2026.06.06-13.41.58:856][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.06.06-13.41.58:856][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_HUD]
+[2026.06.06-13.41.58:856][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Widgets/WBP_HUD.uasset" SILENT=true
+[2026.06.06-13.41.58:887][320]LogSavePackage: Moving output files for package: /Game/Widgets/WBP_HUD
+[2026.06.06-13.41.58:888][320]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/WBP_HUDD28E355A4D836DE47D2F8AA800B7C6FB.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Widgets/WBP_HUD.uasset'
+[2026.06.06-13.41.58:919][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 552.651 ms (total: 1.24 sec)
+[2026.06.06-13.41.59:003][320]LogContentValidation: Display: Starting to validate 6 assets
+[2026.06.06-13.41.59:003][320]LogContentValidation: Enabled validators:
+[2026.06.06-13.41.59:004][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.06-13.41.59:004][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.06-13.41.59:004][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.06-13.41.59:004][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.06-13.41.59:004][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.06-13.41.59:004][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.06-13.41.59:006][320]AssetCheck: /Game/Blueprints/Escondites/BP_Cama Validando recurso
+[2026.06.06-13.41.59:006][320]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.06-13.41.59:006][320]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validando recurso
+[2026.06.06-13.41.59:006][320]AssetCheck: /Game/Blueprints/BP_HidingSpot Validando recurso
+[2026.06.06-13.41.59:006][320]AssetCheck: /Game/Input/Actions/IA_Hide Validando recurso
+[2026.06.06-13.41.59:009][320]AssetCheck: /Game/Widgets/WBP_HUD Validando recurso
+[2026.06.06-13.41.59:065][320]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.06-13.42.02:093][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.06-13.42.02:318][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.06.06-13.42.02:372][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.06-13.42.02:418][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.06-13.42.02:441][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 348.184 ms (total: 1.59 sec)
