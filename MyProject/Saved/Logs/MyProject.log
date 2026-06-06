@@ -1778,3 +1778,282 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.06-17.13.15:483][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 985.693848
 [2026.06.06-17.13.16:483][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.06-17.13.16:483][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 986.360413, Update Interval: 334.836884
+[2026.06.06-17.19.01:147][200]LogSlate: Window 'Elegir clase padre para el nuevo blueprint de widget' being destroyed
+[2026.06.06-17.19.01:170][200]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.06.06-17.19.01:183][200]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.06.06-17.19.01:215][201]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.06.06-17.19.02:124][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1332.321411
+[2026.06.06-17.19.02:393][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-17.19.02:393][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1332.546509, Update Interval: 318.983124
+[2026.06.06-17.19.09:583][344]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Victoria
+[2026.06.06-17.19.09:662][344]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.06.06-17.19.12:066][378]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WBP_Victoria.WBP_Victoria
+[2026.06.06-17.19.12:086][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.06.06-17.19.12:123][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.06.06-17.19.34:573][512]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2026.06.06-17.19.35:246][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.06-17.19.35:299][544]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_Victoria] ([2] browsable assets)...
+[2026.06.06-17.19.35:308][544]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_Victoria.WBP_Victoria]
+[2026.06.06-17.19.35:308][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_Victoria]
+[2026.06.06-17.19.35:308][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_Victoria" FILE="../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Widgets/WBP_Victoria.uasset" SILENT=true
+[2026.06.06-17.19.35:356][544]LogSavePackage: Moving output files for package: /Game/Widgets/WBP_Victoria
+[2026.06.06-17.19.35:357][544]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/WBP_VictoriaA72237E943DD35AAAFCD13970D721994.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Content/Widgets/WBP_Victoria.uasset'
+[2026.06.06-17.19.35:389][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.771 ms (total: 350.721 ms)
+[2026.06.06-17.19.35:453][544]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.06-17.19.35:454][544]LogContentValidation: Enabled validators:
+[2026.06.06-17.19.35:456][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.06-17.19.35:456][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.06-17.19.35:456][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.06-17.19.35:456][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.06-17.19.35:456][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.06-17.19.35:456][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.06-17.19.35:458][544]AssetCheck: /Game/Widgets/WBP_Victoria Validando recurso
+[2026.06.06-17.19.35:497][544]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.06-17.19.36:312][587]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.19.36:314][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.19.36:339][587]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.19.36:340][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.19.36:465][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.06.06-17.19.42:715][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Chest.BP_Chest
+[2026.06.06-17.19.42:735][865]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.06.06-17.21.12:705][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2026.06.06-17.21.16:724][571]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WBP_Victoria.WBP_Victoria
+[2026.06.06-17.21.16:726][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.06.06-17.21.16:752][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.06.06-17.21.26:973][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.06.06-17.21.31:782][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.06.06-17.21.33:173][382]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.21.33:173][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.21.33:182][382]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.21.33:182][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.21.33:273][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.06.06-17.21.39:157][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.06.06-17.21.41:290][793]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.21.41:290][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.21.41:301][793]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.21.41:301][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.21.41:407][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.06.06-17.21.51:035][  6]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-17.21.51:106][  6]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-17.21.51:107][  6]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-17.21.51:117][  6]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 10.926 ms (total: 50.072 ms)
+[2026.06.06-17.21.51:121][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-17.21.51:130][  6]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.21.51:157][  6]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-17.21.51:157][  6]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.357 ms (total: 15.754 ms)
+[2026.06.06-17.21.51:157][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026773s)
+[2026.06.06-17.21.51:158][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.027115s)
+[2026.06.06-17.21.51:216][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.06.06-17.21.51:217][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-17.21.51:230][  6]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-17.21.51:230][  6]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-17.21.51:230][  6]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-17.21.51:230][  6]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-17.21.51:232][  6]LogWorldPartition: Display: WorldPartition initialize took 1.849 ms (total: 268.779 ms)
+[2026.06.06-17.21.51:232][  6]LogPlayLevel: PIE: World Init took: (0.014375s)
+[2026.06.06-17.21.51:233][  6]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.06.06-17.21.51:235][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-17.21.51:235][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-17.21.51:235][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-17.21.51:235][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-17.21.51:235][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-17.21.51:235][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-17.21.51:235][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-17.21.51:235][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-17.21.51:236][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-17.21.51:236][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-17.21.51:236][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-17.21.51:240][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-17.21.51:441][  6]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-17.21.51:444][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-17.21.51:444][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-17.21.51:445][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-17.21.51:447][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.06.06-17.21.51:447][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.06.06-17.21.51:450][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.06.06-17.21.51:450][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.06.06-17.21.51:451][  6]LogInit: FAudioDevice initialized with ID 6.
+[2026.06.06-17.21.51:451][  6]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-17.21.51:452][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.06-17.21.51:467][  6]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-17.21.51:473][  6]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-12.21.51
+[2026.06.06-17.21.51:480][  6]LogWorld: Bringing up level for play took: 0.010961
+[2026.06.06-17.21.51:493][  6]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.06.06-17.21.51:524][  6]PIE: El servidor ha iniciado sesión
+[2026.06.06-17.21.51:527][  6]PIE: Tiempo de inicio total de la reproducción en el editor de 0,44 segundos.
+[2026.06.06-17.21.51:732][ 10]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.113258 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_C_UAID_A8E291C41BD92BE202_1757595719', movement 'Walking'
+[2026.06.06-17.22.00:332][378]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-17.22.00:333][378]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.22.05:964][644]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_1' was already added to the screen.
+[2026.06.06-17.22.05:965][644]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.22.12:995][976]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.22.12:998][976]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.22.20:548][312]LogBlueprintUserMessages: [BP_Door_C_UAID_A8E291C41BD904E202_1634466857] Necesitas todos los objetos
+[2026.06.06-17.22.24:415][479]LogBlueprintUserMessages: [BP_Door_C_UAID_A8E291C41BD904E202_1634466857] Necesitas todos los objetos
+[2026.06.06-17.22.32:468][835]LogBlueprintUserMessages: [BP_Door_C_UAID_A8E291C41BD902E202_1548959503] Necesitas todos los objetos
+[2026.06.06-17.22.51:417][682]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.22.51:417][682]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.23.06:697][305]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_2' was already added to the screen.
+[2026.06.06-17.23.06:697][305]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.24.02:559][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.24.02:559][637]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.24.02:562][637]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-17.24.02:566][637]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.24.02:571][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.24.02:571][637]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-17.24.02:591][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-17.24.02:599][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.24.02:650][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.24.02:651][637]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.06-17.24.02:653][637]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.06.06-17.24.02:662][637]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.06.06-17.24.02:706][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.06.06-17.24.02:828][638]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.06.06-17.24.06:897][814]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.06.06-17.24.06:935][814]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.06-17.24.06:936][814]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.06-17.24.06:938][814]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 3.772 ms (total: 53.844 ms)
+[2026.06.06-17.24.06:940][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.06-17.24.06:942][814]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.24.06:980][814]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.06-17.24.06:982][814]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.440 ms (total: 17.194 ms)
+[2026.06.06-17.24.06:982][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040202s)
+[2026.06.06-17.24.06:982][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.040419s)
+[2026.06.06-17.24.07:037][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2026.06.06-17.24.07:039][814]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.06-17.24.07:041][814]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.06-17.24.07:041][814]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.06-17.24.07:041][814]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.06-17.24.07:041][814]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.06-17.24.07:043][814]LogWorldPartition: Display: WorldPartition initialize took 1.704 ms (total: 270.483 ms)
+[2026.06.06-17.24.07:043][814]LogPlayLevel: PIE: World Init took: (0.004130s)
+[2026.06.06-17.24.07:043][814]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.06.06-17.24.07:044][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.06-17.24.07:044][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.06-17.24.07:044][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.06-17.24.07:044][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.06-17.24.07:044][814]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.06-17.24.07:044][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.06-17.24.07:044][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.06-17.24.07:044][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.06-17.24.07:044][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.06-17.24.07:044][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.06-17.24.07:044][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.06-17.24.07:046][814]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.06-17.24.07:153][814]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2026.06.06-17.24.07:153][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.06-17.24.07:153][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.06-17.24.07:153][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.06-17.24.07:154][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.06.06-17.24.07:154][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.06.06-17.24.07:157][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.06.06-17.24.07:157][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.06.06-17.24.07:166][814]LogInit: FAudioDevice initialized with ID 7.
+[2026.06.06-17.24.07:166][814]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_FirstPerson'.
+[2026.06.06-17.24.07:168][814]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.06-17.24.07:176][814]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.06-17.24.07:182][814]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.06-12.24.07
+[2026.06.06-17.24.07:183][814]LogWorld: Bringing up level for play took: 0.006222
+[2026.06.06-17.24.07:188][814]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.06.06-17.24.07:196][814]PIE: El servidor ha iniciado sesión
+[2026.06.06-17.24.07:199][814]PIE: Tiempo de inicio total de la reproducción en el editor de 0,264 segundos.
+[2026.06.06-17.24.07:346][817]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097723 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_C_UAID_A8E291C41BD92BE202_1757595719', movement 'Walking'
+[2026.06.06-17.24.20:424][380]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.24.20:425][380]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.24.27:325][717]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_0' was already added to the screen.
+[2026.06.06-17.24.27:325][717]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.24.36:191][132]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.24.36:194][132]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.24.43:766][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1673.972290
+[2026.06.06-17.24.43:960][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-17.24.43:960][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1674.149902, Update Interval: 315.866577
+[2026.06.06-17.24.50:295][763]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.24.50:295][763]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.24.59:626][154]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_1' was already added to the screen.
+[2026.06.06-17.24.59:626][154]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.25.06:763][460]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.25.06:764][460]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.25.17:617][920]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_2' was already added to the screen.
+[2026.06.06-17.25.17:617][920]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.25.23:548][139]LogBlueprintUserMessages: [BP_Chest_C_UAID_A8E291C41BD9F2E102_1326994688] 1
+[2026.06.06-17.25.23:567][139]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.25.23:567][139]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.25.41:857][905]LogScript: Warning: Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.
+	BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:09D4
+[2026.06.06-17.25.41:857][905]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad heldObject en BP_FirstPersonCharacter_C.". Nodo:  Drop Grafo:  EventGraph Función:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2026.06.06-17.26.15:125][109]LogScript: Warning: Script Msg: The widget 'WBP_Hide_C_3' was already added to the screen.
+[2026.06.06-17.26.15:125][109]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.06.06-17.26.40:030][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.26.40:030][953]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.06.06-17.26.40:030][953]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.06-17.26.40:032][953]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.06-17.26.40:034][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.26.40:034][953]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.06-17.26.40:037][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.06-17.26.40:054][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.06-17.26.40:102][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.06-17.26.40:103][953]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.06-17.26.40:103][953]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.06.06-17.26.40:105][953]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.06.06-17.26.40:123][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2026.06.06-17.26.40:244][954]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.06.06-17.27.22:197][606]Cmd: TRANSACTION UNDO
+[2026.06.06-17.27.22:198][606]LogEditorTransaction: Undo Rotar elementos
+[2026.06.06-17.28.53:715][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.06.06-17.28.53:752][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4V/J89WNERSGWAYV9WHY87K2Z_Auto2
+[2026.06.06-17.28.53:752][145]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/J89WNERSGWAYV9WHY87K2Z_Auto2D15E494242A9E66D6DC607BAED9DAC28.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4V/J89WNERSGWAYV9WHY87K2Z_Auto2.uasset'
+[2026.06.06-17.28.53:756][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.113
+[2026.06.06-17.28.53:756][145]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2026.06.06-17.28.53:758][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.06.06-17.28.53:758][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.06.06-17.28.53:822][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2026.06.06-17.28.53:824][145]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_FirstPersonCharacter_Auto24F8D979E4B769361FE33FB8DC1F76268.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2026.06.06-17.28.53:828][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Chest] ([2] browsable assets)...
+[2026.06.06-17.28.53:847][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Chest.BP_Chest]
+[2026.06.06-17.28.53:848][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Chest]
+[2026.06.06-17.28.53:885][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Chest_Auto2
+[2026.06.06-17.28.53:887][145]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Chest_Auto24331C674444AB2805FCF9E8565855E7C.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/BP_Chest_Auto2.uasset'
+[2026.06.06-17.28.53:890][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2026.06.06-17.28.53:902][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy]
+[2026.06.06-17.28.53:904][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy]
+[2026.06.06-17.28.53:927][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_Auto2
+[2026.06.06-17.28.53:928][145]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/BP_Enemy_Auto23208CC954300ACEA9BEA599F002181C9.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Blueprints/BP_Enemy_Auto2.uasset'
+[2026.06.06-17.28.53:930][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_Derrota] ([2] browsable assets)...
+[2026.06.06-17.28.53:934][145]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_Derrota.WBP_Derrota]
+[2026.06.06-17.28.53:934][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_Derrota]
+[2026.06.06-17.28.53:948][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_Derrota_Auto2
+[2026.06.06-17.28.53:948][145]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/WBP_Derrota_Auto20BC74BA44C3F7D56CC7819A11BC898C7.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Widgets/WBP_Derrota_Auto2.uasset'
+[2026.06.06-17.28.53:949][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_Victoria] ([2] browsable assets)...
+[2026.06.06-17.28.53:959][145]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_Victoria.WBP_Victoria]
+[2026.06.06-17.28.53:959][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_Victoria]
+[2026.06.06-17.28.53:971][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_Victoria_Auto2
+[2026.06.06-17.28.53:971][145]LogSavePackage: Moving '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/WBP_Victoria_Auto2ACFFFF004F1ABAF81ECA8CB7A8D8091E.tmp' to '../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/Autosaves/Game/Widgets/WBP_Victoria_Auto2.uasset'
+[2026.06.06-17.28.53:972][145]LogFileHelpers: Auto-saving content packages took 0.215
+[2026.06.06-17.29.25:334][310]Cmd: TRANSACTION UNDO
+[2026.06.06-17.29.25:335][310]LogEditorTransaction: Undo Mover elementos
+[2026.06.06-17.29.26:024][320]Cmd: TRANSACTION UNDO
+[2026.06.06-17.29.26:024][320]LogEditorTransaction: Undo Rotar elementos
+[2026.06.06-17.29.27:060][348]Cmd: TRANSACTION UNDO
+[2026.06.06-17.29.27:060][348]LogEditorTransaction: Undo Mover elementos
+[2026.06.06-17.29.27:702][365]Cmd: TRANSACTION UNDO
+[2026.06.06-17.29.27:705][365]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.06.06-17.29.28:827][398]Cmd: TRANSACTION UNDO
+[2026.06.06-17.29.28:827][398]LogEditorTransaction: Undo Anclas modificadas
+[2026.06.06-17.30.37:584][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2027.793457
+[2026.06.06-17.30.38:582][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-17.30.38:587][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2028.458618, Update Interval: 323.077484
