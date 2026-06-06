@@ -5075,3 +5075,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.06-21.51.11:702][ 67]AssetCheck: /Game/Blueprints/BTTask_GetRandomLocationFather Validando recurso
 [2026.06.06-21.51.11:702][ 67]AssetCheck: /Game/Blueprints/BT_Father Validando recurso
 [2026.06.06-21.51.11:792][ 67]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/maren/Downloads/GameJam/GameJam/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.06-21.51.38:722][346]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17689.951172
+[2026.06.06-21.51.39:757][349]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.06-21.51.39:759][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17690.619141, Update Interval: 312.662140
