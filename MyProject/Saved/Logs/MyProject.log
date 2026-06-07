@@ -4846,3 +4846,126 @@ FPackageName: Skipped package /Engine/EngineFonts/MountainsofChristmas-Bold_Font
 [2026.06.07-14.57.29:537][603]AssetCheck: /Game/ArteYModelos/Baño/Toalla/ToallaBaño Validating asset
 [2026.06.07-14.57.29:549][603]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/USER/OneDrive/Documentos/Unreal Projects/GameJam/MyProject/Saved/SourceControl/UncontrolledChangelists.json
 [2026.06.07-14.57.31:722][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.06.07-14.59.27:876][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.07-15.00.01:194][562]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="C:/Users/USER/OneDrive/Documentos/Unreal Projects/GameJam/MyProject/" -install="C:/Users/USER/OneDrive/Documentos/Unreal Projects/CopiaseguridadGamejam/MyProject.zip"" -nocompile -nocompileuat ]
+[2026.06.07-15.00.01:201][562]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: ================================================
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Total job queries 3278, among them cache hits 1264 (38.56%), DDC hits 570 (17.39%), Duplicates 452 (13.79%)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Tracking 1562 distinct input hashes that result in 1348 distinct outputs (86.30%)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: RAM used: 14,98 MiB of 3,10 GiB budget. Usage: 0.47%
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Shaders Compiled: 992
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Jobs assigned 992, completed 992 (100%)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Average time worker was idle: 26.13 s
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Time job spent in pending queue: average 0.30 s, longest 3.95 s
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Job execution time: average 1.46 s, max 5.64 s
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Job life time (pending + execution): average 1.76 s, max 5.72
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Shader code size: total 12,243 MiB, numShaders 992, average 12,638 KiB, min 3,504 KiB, max 28,695 KiB
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 126.70 s
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Jobs were issued in 778 batches (only local compilation was used), average 1.28 jobs/batch
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Average processing rate: 7.83 jobs/sec
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Total thread time: 798,97 s
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Total thread preprocess time: 34,796 s
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Percentage time preprocessing: 4.36%
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Effective parallelization: 6.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.525490
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   86 times, average 1.45 sec, max 1.73 sec, min 1.16 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   86 times, average 1.44 sec, max 1.71 sec, min 0.96 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   86 times, average 1.12 sec, max 1.28 sec, min 0.91 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.00 sec, max 1.14 sec, min 0.84 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.90 sec, max 0.99 sec, min 0.76 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.49% of total time (compiled  173 times, average 0.81 sec, max 1.16 sec, min 0.42 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 17.06% of total time (compiled  172 times, average 0.79 sec, max 1.15 sec, min 0.43 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 15.62% of total time (compiled   86 times, average 1.45 sec, max 1.73 sec, min 1.16 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 15.47% of total time (compiled   86 times, average 1.44 sec, max 1.71 sec, min 0.96 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display:                                                 FLumenCardCS - 12.02% of total time (compiled   86 times, average 1.12 sec, max 1.28 sec, min 0.91 sec)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: === Material stats ===
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Materials Translated:    340
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Material Translation Only: 0.07 s (40%)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: Material Cache Hits: 24 (7%)
+[2026.06.07-15.00.01:217][562]LogShaderCompilers: Display: ================================================
+[2026.06.07-15.00.01:234][562]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2026.06.07-15.00.01:265][562]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.06.07-15.00.01:359][564]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2026.06.07-15.00.01:370][564]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project="C:/Users/USER/OneDrive/Documentos/Unreal Projects/GameJam/MyProject/" -install="C:/Users/USER/OneDrive/Documentos/Unreal Projects/CopiaseguridadGamejam/MyProject.zip" -nocompile -nocompileuat
+[2026.06.07-15.00.01:432][566]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2026.06.07-15.00.01:582][581]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 0.15 s.
+[2026.06.07-15.00.01:624][586]UATHelper: Zip Project Task (Windows (Editor)): Using C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\ThirdParty\DotNet\8.0.300\win-x64\dotnet.exe
+[2026.06.07-15.00.01:793][607]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2026.06.07-15.00.01:793][607]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2026.06.07-15.00.01:793][607]UATHelper: Zip Project Task (Windows (Editor)): Project directory: C:\Users\USER\OneDrive\Documentos\Unreal Projects\GameJam\MyProject
+[2026.06.07-15.00.01:793][607]UATHelper: Zip Project Task (Windows (Editor)): Install directory: C:/Users/USER/OneDrive/Documentos/Unreal Projects/CopiaseguridadGamejam/MyProject.zip
+[2026.06.07-15.00.01:793][607]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2026.06.07-15.00.03:889][854]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2026.06.07-15.00.03:889][854]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2026.06.07-15.00.03:889][854]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 2s
+[2026.06.07-15.00.03:889][854]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2026.06.07-15.00.03:913][857]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.07-15.00.04:821][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.07-15.00.08:422][354]Cmd: CLOSE_SLATE_MAINFRAME
+[2026.06.07-15.00.08:434][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.06.07-15.00.08:481][354]LogStall: Shutdown...
+[2026.06.07-15.00.08:481][354]LogStall: Shutdown complete.
+[2026.06.07-15.00.08:515][354]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2026.06.07-15.00.08:747][355]Cmd: QUIT_EDITOR
+[2026.06.07-15.00.08:747][355]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.06.07-15.00.08:752][356]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.06.07-15.00.08:752][356]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.06.07-15.00.08:752][356]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.06.07-15.00.08:754][356]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.07-15.00.08:754][356]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.07-15.00.08:754][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.07-15.00.08:754][356]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.07-15.00.08:762][356]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.06.07-15.00.08:763][356]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.06.07-15.00.08:764][356]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.06.07-15.00.08:769][356]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.06.07-15.00.08:769][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.07-15.00.08:770][356]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.07-15.00.08:770][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.07-15.00.08:770][356]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.06.07-15.00.08:770][356]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.06.07-15.00.08:772][356]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.06.07-15.00.08:773][356]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.06.07-15.00.08:773][356]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.06.07-15.00.08:773][356]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2026.06.07-15.00.08:773][356]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.06.07-15.00.08:773][356]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.06.07-15.00.08:774][356]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.06.07-15.00.08:780][356]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.06.07-15.00.08:780][356]LogAudio: Display: Audio Device Manager Shutdown
+[2026.06.07-15.00.08:782][356]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.06.07-15.00.08:783][356]LogExit: Preparing to exit.
+[2026.06.07-15.00.08:812][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.07-15.00.09:720][356]LogEditorDataStorage: Deinitializing
+[2026.06.07-15.00.09:768][356]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.06.07-15.00.09:780][356]LogExit: Editor shut down
+[2026.06.07-15.00.09:782][356]LogExit: Transaction tracking system shut down
+[2026.06.07-15.00.09:880][356]LogExit: Object subsystem successfully closed.
+[2026.06.07-15.00.09:981][356]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.07-15.00.10:077][356]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2026.06.07-15.00.10:085][356]LogMemoryProfiler: Shutdown
+[2026.06.07-15.00.10:085][356]LogNetworkingProfiler: Shutdown
+[2026.06.07-15.00.10:085][356]LoadingProfiler: Shutdown
+[2026.06.07-15.00.10:085][356]LogTimingProfiler: Shutdown
+[2026.06.07-15.00.10:087][356]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.06.07-15.00.10:087][356]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.06.07-15.00.10:348][356]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.06.07-15.00.10:349][356]LogNFORDenoise: NFORDenoise function shutting down
+[2026.06.07-15.00.10:364][356]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.06.07-15.00.10:364][356]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B96D5D790-4326-8DC2-1A46-5B82ACF4E21B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=04c26cf2460e07ffc7a02a828cbf645b%7C79cfdb5724c84e4ba1bed0757c06310c%7C9d97f83e-2119-4e9f-98dd-30167954a674&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.06.07-15.00.10:912][356]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.06.07-15.00.10:912][356]RenderDocPlugin: plugin has been unloaded.
+[2026.06.07-15.00.10:917][356]LogXGEController: Cleaning working directory: C:/Users/USER/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.06.07-15.00.10:918][356]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.06.07-15.00.10:918][356]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.06.07-15.00.10:918][356]LogPakFile: Destroying PakPlatformFile
+[2026.06.07-15.00.11:170][356]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.06.07-15.00.11:198][356]LogExit: Exiting.
+[2026.06.07-15.00.11:216][356]Log file closed, 06/07/26 10:00:11
